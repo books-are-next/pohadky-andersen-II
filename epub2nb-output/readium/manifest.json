@@ -1,0 +1,409 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Pohádky II",
+    "identifier": "urn:uuid:6c5fc4ad-4c0d-4828-a138-4bf8f14299a8",
+    "author": "Hans Christian Andersen",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2022-03-08T15:26:44.567Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_046.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_047.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_ii_048.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/pohadky_ii_idstyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_pohadky_ii_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy_fmt.jpeg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Rajská zahrada",
+      "href": "OEBPS/Text/pohadky_ii_005.xhtml#toc_marker-1"
+    },
+    {
+      "title": "Pohanka",
+      "href": "OEBPS/Text/pohadky_ii_006.xhtml#toc_marker-2"
+    },
+    {
+      "title": "Anděl",
+      "href": "OEBPS/Text/pohadky_ii_007.xhtml#toc_marker-3"
+    },
+    {
+      "title": "Obrázek z hradeb",
+      "href": "OEBPS/Text/pohadky_ii_008.xhtml#toc_marker-4"
+    },
+    {
+      "title": "Návrší skřítků",
+      "href": "OEBPS/Text/pohadky_ii_009.xhtml#toc_marker-5"
+    },
+    {
+      "title": "Děvčátko se sirkami",
+      "href": "OEBPS/Text/pohadky_ii_010.xhtml#toc_marker-6"
+    },
+    {
+      "title": "Sousedé",
+      "href": "OEBPS/Text/pohadky_ii_011.xhtml#toc_marker-7"
+    },
+    {
+      "title": "Límec",
+      "href": "OEBPS/Text/pohadky_ii_012.xhtml#toc_marker-8"
+    },
+    {
+      "title": "V poslední den",
+      "href": "OEBPS/Text/pohadky_ii_013.xhtml#toc_marker-9"
+    },
+    {
+      "title": "Nejkrásnější růže na světě",
+      "href": "OEBPS/Text/pohadky_ii_014.xhtml#toc_marker-10"
+    },
+    {
+      "title": "Žal srdce",
+      "href": "OEBPS/Text/pohadky_ii_015.xhtml#toc_marker-11"
+    },
+    {
+      "title": "Skřítek u hokynáře",
+      "href": "OEBPS/Text/pohadky_ii_016.xhtml#toc_marker-12"
+    },
+    {
+      "title": "Za tisíc let",
+      "href": "OEBPS/Text/pohadky_ii_017.xhtml#toc_marker-13"
+    },
+    {
+      "title": "Pod vrbou",
+      "href": "OEBPS/Text/pohadky_ii_018.xhtml#toc_marker-14"
+    },
+    {
+      "title": "Poslední perla",
+      "href": "OEBPS/Text/pohadky_ii_019.xhtml#toc_marker-15"
+    },
+    {
+      "title": "Dvě panny",
+      "href": "OEBPS/Text/pohadky_ii_020.xhtml#toc_marker-16"
+    },
+    {
+      "title": "Na konci moře",
+      "href": "OEBPS/Text/pohadky_ii_021.xhtml#toc_marker-17"
+    },
+    {
+      "title": "Jakoubek a Kristýnka",
+      "href": "OEBPS/Text/pohadky_ii_022.xhtml#toc_marker-18"
+    },
+    {
+      "title": "Něco",
+      "href": "OEBPS/Text/pohadky_ii_023.xhtml#toc_marker-19"
+    },
+    {
+      "title": "Hlásný Ole",
+      "href": "OEBPS/Text/pohadky_ii_024.xhtml#toc_marker-20"
+    },
+    {
+      "title": "Slabikář",
+      "href": "OEBPS/Text/pohadky_ii_025.xhtml#toc_marker-21"
+    },
+    {
+      "title": "Dcera krále močálů",
+      "href": "OEBPS/Text/pohadky_ii_026.xhtml#toc_marker-22"
+    },
+    {
+      "title": "Zvonivá tůň",
+      "href": "OEBPS/Text/pohadky_ii_027.xhtml#toc_marker-23"
+    },
+    {
+      "title": "Anna Bětka",
+      "href": "OEBPS/Text/pohadky_ii_028.xhtml#toc_marker-24"
+    },
+    {
+      "title": "Krásná!",
+      "href": "OEBPS/Text/pohadky_ii_029.xhtml#toc_marker-25"
+    },
+    {
+      "title": "Motýl",
+      "href": "OEBPS/Text/pohadky_ii_030.xhtml#toc_marker-26"
+    },
+    {
+      "title": "Psyche",
+      "href": "OEBPS/Text/pohadky_ii_031.xhtml#toc_marker-27"
+    },
+    {
+      "title": "Šnek a růžový keř",
+      "href": "OEBPS/Text/pohadky_ii_032.xhtml#toc_marker-28"
+    },
+    {
+      "title": "Bludičky jsou ve městě, řekla čarodějnice",
+      "href": "OEBPS/Text/pohadky_ii_033.xhtml#toc_marker-29"
+    },
+    {
+      "title": "Větrný mlýn",
+      "href": "OEBPS/Text/pohadky_ii_034.xhtml#toc_marker-30"
+    },
+    {
+      "title": "Petr, Petřík a Petříček",
+      "href": "OEBPS/Text/pohadky_ii_035.xhtml#toc_marker-31"
+    },
+    {
+      "title": "Domovníkův syn",
+      "href": "OEBPS/Text/pohadky_ii_036.xhtml#toc_marker-32"
+    },
+    {
+      "title": "Povídka slunečního paprsku",
+      "href": "OEBPS/Text/pohadky_ii_037.xhtml#toc_marker-33"
+    },
+    {
+      "title": "Husopaska Markétka a její rodina",
+      "href": "OEBPS/Text/pohadky_ii_038.xhtml#toc_marker-34"
+    },
+    {
+      "title": "Nejneuvěřitelnější věc",
+      "href": "OEBPS/Text/pohadky_ii_039.xhtml#toc_marker-35"
+    },
+    {
+      "title": "Štěstí může ležet v dřívku",
+      "href": "OEBPS/Text/pohadky_ii_040.xhtml#toc_marker-36"
+    },
+    {
+      "title": "Dny v týdnu",
+      "href": "OEBPS/Text/pohadky_ii_041.xhtml#toc_marker-37"
+    },
+    {
+      "title": "Svíčky",
+      "href": "OEBPS/Text/pohadky_ii_042.xhtml#toc_marker-38"
+    },
+    {
+      "title": "Velký mořský had",
+      "href": "OEBPS/Text/pohadky_ii_043.xhtml#toc_marker-39"
+    },
+    {
+      "title": "Klíč od vrat",
+      "href": "OEBPS/Text/pohadky_ii_044.xhtml#toc_marker-40"
+    },
+    {
+      "title": "O tetce Zubybol",
+      "href": "OEBPS/Text/pohadky_ii_045.xhtml#toc_marker-41"
+    },
+    {
+      "title": "Zelenáčci",
+      "href": "OEBPS/Text/pohadky_ii_046.xhtml#toc_marker-42"
+    },
+    {
+      "title": "Dva ostrůvky",
+      "href": "OEBPS/Text/pohadky_ii_047.xhtml#toc_marker-43"
+    }
+  ]
+}

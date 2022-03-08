@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:6c5fc4ad-4c0d-4828-a138-4bf8f14299a8" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Pohádky II</text>
+  </docTitle>
+  <docAuthor>
+    <text>Hans Christian Andersen</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>Rajská zahrada</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_005.xhtml#toc_marker-1"/>
+    </navPoint>
+    <navPoint id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>Pohanka</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_006.xhtml#toc_marker-2"/>
+    </navPoint>
+    <navPoint id="navpoint3" playOrder="3">
+      <navLabel>
+        <text>Anděl</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_007.xhtml#toc_marker-3"/>
+    </navPoint>
+    <navPoint id="navpoint4" playOrder="4">
+      <navLabel>
+        <text>Obrázek z hradeb</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_008.xhtml#toc_marker-4"/>
+    </navPoint>
+    <navPoint id="navpoint5" playOrder="5">
+      <navLabel>
+        <text>Návrší skřítků</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_009.xhtml#toc_marker-5"/>
+    </navPoint>
+    <navPoint id="navpoint6" playOrder="6">
+      <navLabel>
+        <text>Děvčátko se sirkami</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_010.xhtml#toc_marker-6"/>
+    </navPoint>
+    <navPoint id="navpoint7" playOrder="7">
+      <navLabel>
+        <text>Sousedé</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_011.xhtml#toc_marker-7"/>
+    </navPoint>
+    <navPoint id="navpoint8" playOrder="8">
+      <navLabel>
+        <text>Límec</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_012.xhtml#toc_marker-8"/>
+    </navPoint>
+    <navPoint id="navpoint9" playOrder="9">
+      <navLabel>
+        <text>V poslední den</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_013.xhtml#toc_marker-9"/>
+    </navPoint>
+    <navPoint id="navpoint10" playOrder="10">
+      <navLabel>
+        <text>Nejkrásnější růže na světě</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_014.xhtml#toc_marker-10"/>
+    </navPoint>
+    <navPoint id="navpoint11" playOrder="11">
+      <navLabel>
+        <text>Žal srdce</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_015.xhtml#toc_marker-11"/>
+    </navPoint>
+    <navPoint id="navpoint12" playOrder="12">
+      <navLabel>
+        <text>Skřítek u hokynáře</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_016.xhtml#toc_marker-12"/>
+    </navPoint>
+    <navPoint id="navpoint13" playOrder="13">
+      <navLabel>
+        <text>Za tisíc let</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_017.xhtml#toc_marker-13"/>
+    </navPoint>
+    <navPoint id="navpoint14" playOrder="14">
+      <navLabel>
+        <text>Pod vrbou</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_018.xhtml#toc_marker-14"/>
+    </navPoint>
+    <navPoint id="navpoint15" playOrder="15">
+      <navLabel>
+        <text>Poslední perla</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_019.xhtml#toc_marker-15"/>
+    </navPoint>
+    <navPoint id="navpoint16" playOrder="16">
+      <navLabel>
+        <text>Dvě panny</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_020.xhtml#toc_marker-16"/>
+    </navPoint>
+    <navPoint id="navpoint17" playOrder="17">
+      <navLabel>
+        <text>Na konci moře</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_021.xhtml#toc_marker-17"/>
+    </navPoint>
+    <navPoint id="navpoint18" playOrder="18">
+      <navLabel>
+        <text>Jakoubek a Kristýnka</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_022.xhtml#toc_marker-18"/>
+    </navPoint>
+    <navPoint id="navpoint19" playOrder="19">
+      <navLabel>
+        <text>Něco</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_023.xhtml#toc_marker-19"/>
+    </navPoint>
+    <navPoint id="navpoint20" playOrder="20">
+      <navLabel>
+        <text>Hlásný Ole</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_024.xhtml#toc_marker-20"/>
+    </navPoint>
+    <navPoint id="navpoint21" playOrder="21">
+      <navLabel>
+        <text>Slabikář</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_025.xhtml#toc_marker-21"/>
+    </navPoint>
+    <navPoint id="navpoint22" playOrder="22">
+      <navLabel>
+        <text>Dcera krále močálů</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_026.xhtml#toc_marker-22"/>
+    </navPoint>
+    <navPoint id="navpoint23" playOrder="23">
+      <navLabel>
+        <text>Zvonivá tůň</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_027.xhtml#toc_marker-23"/>
+    </navPoint>
+    <navPoint id="navpoint24" playOrder="24">
+      <navLabel>
+        <text>Anna Bětka</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_028.xhtml#toc_marker-24"/>
+    </navPoint>
+    <navPoint id="navpoint25" playOrder="25">
+      <navLabel>
+        <text>Krásná!</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_029.xhtml#toc_marker-25"/>
+    </navPoint>
+    <navPoint id="navpoint26" playOrder="26">
+      <navLabel>
+        <text>Motýl</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_030.xhtml#toc_marker-26"/>
+    </navPoint>
+    <navPoint id="navpoint27" playOrder="27">
+      <navLabel>
+        <text>Psyche</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_031.xhtml#toc_marker-27"/>
+    </navPoint>
+    <navPoint id="navpoint28" playOrder="28">
+      <navLabel>
+        <text>Šnek a růžový keř</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_032.xhtml#toc_marker-28"/>
+    </navPoint>
+    <navPoint id="navpoint29" playOrder="29">
+      <navLabel>
+        <text>Bludičky jsou ve městě, řekla čarodějnice</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_033.xhtml#toc_marker-29"/>
+    </navPoint>
+    <navPoint id="navpoint30" playOrder="30">
+      <navLabel>
+        <text>Větrný mlýn</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_034.xhtml#toc_marker-30"/>
+    </navPoint>
+    <navPoint id="navpoint31" playOrder="31">
+      <navLabel>
+        <text>Petr, Petřík a Petříček</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_035.xhtml#toc_marker-31"/>
+    </navPoint>
+    <navPoint id="navpoint32" playOrder="32">
+      <navLabel>
+        <text>Domovníkův syn</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_036.xhtml#toc_marker-32"/>
+    </navPoint>
+    <navPoint id="navpoint33" playOrder="33">
+      <navLabel>
+        <text>Povídka slunečního paprsku</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_037.xhtml#toc_marker-33"/>
+    </navPoint>
+    <navPoint id="navpoint34" playOrder="34">
+      <navLabel>
+        <text>Husopaska Markétka a její rodina</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_038.xhtml#toc_marker-34"/>
+    </navPoint>
+    <navPoint id="navpoint35" playOrder="35">
+      <navLabel>
+        <text>Nejneuvěřitelnější věc</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_039.xhtml#toc_marker-35"/>
+    </navPoint>
+    <navPoint id="navpoint36" playOrder="36">
+      <navLabel>
+        <text>Štěstí může ležet v dřívku</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_040.xhtml#toc_marker-36"/>
+    </navPoint>
+    <navPoint id="navpoint37" playOrder="37">
+      <navLabel>
+        <text>Dny v týdnu</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_041.xhtml#toc_marker-37"/>
+    </navPoint>
+    <navPoint id="navpoint38" playOrder="38">
+      <navLabel>
+        <text>Svíčky</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_042.xhtml#toc_marker-38"/>
+    </navPoint>
+    <navPoint id="navpoint39" playOrder="39">
+      <navLabel>
+        <text>Velký mořský had</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_043.xhtml#toc_marker-39"/>
+    </navPoint>
+    <navPoint id="navpoint40" playOrder="40">
+      <navLabel>
+        <text>Klíč od vrat</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_044.xhtml#toc_marker-40"/>
+    </navPoint>
+    <navPoint id="navpoint41" playOrder="41">
+      <navLabel>
+        <text>O tetce Zubybol</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_045.xhtml#toc_marker-41"/>
+    </navPoint>
+    <navPoint id="navpoint42" playOrder="42">
+      <navLabel>
+        <text>Zelenáčci</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_046.xhtml#toc_marker-42"/>
+    </navPoint>
+    <navPoint id="navpoint43" playOrder="43">
+      <navLabel>
+        <text>Dva ostrůvky</text>
+      </navLabel>
+      <content src="Text/pohadky_ii_047.xhtml#toc_marker-43"/>
+    </navPoint>
+  </navMap>
+</ncx>

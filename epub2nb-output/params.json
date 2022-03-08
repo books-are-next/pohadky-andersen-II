@@ -1,0 +1,378 @@
+{
+  "epub": {
+    "metadata": {
+      "title": "Pohádky II",
+      "identifier": "urn:uuid:6c5fc4ad-4c0d-4828-a138-4bf8f14299a8",
+      "author": "Hans Christian Andersen",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-03-08T15:26:44.567Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_001.md",
+        "xhtml": "pohadky_ii_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_002.md",
+        "xhtml": "pohadky_ii_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_003.md",
+        "xhtml": "pohadky_ii_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_004.md",
+        "xhtml": "pohadky_ii_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_005.md",
+        "xhtml": "pohadky_ii_005.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_006.md",
+        "xhtml": "pohadky_ii_006.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_007.md",
+        "xhtml": "pohadky_ii_007.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_008.md",
+        "xhtml": "pohadky_ii_008.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_009.md",
+        "xhtml": "pohadky_ii_009.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_010.md",
+        "xhtml": "pohadky_ii_010.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_011.md",
+        "xhtml": "pohadky_ii_011.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_012.md",
+        "xhtml": "pohadky_ii_012.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_013.md",
+        "xhtml": "pohadky_ii_013.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_014.md",
+        "xhtml": "pohadky_ii_014.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_015.md",
+        "xhtml": "pohadky_ii_015.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_016.md",
+        "xhtml": "pohadky_ii_016.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_017.md",
+        "xhtml": "pohadky_ii_017.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_018.md",
+        "xhtml": "pohadky_ii_018.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_019.md",
+        "xhtml": "pohadky_ii_019.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_020.md",
+        "xhtml": "pohadky_ii_020.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_021.md",
+        "xhtml": "pohadky_ii_021.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_022.md",
+        "xhtml": "pohadky_ii_022.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_023.md",
+        "xhtml": "pohadky_ii_023.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_024.md",
+        "xhtml": "pohadky_ii_024.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_025.md",
+        "xhtml": "pohadky_ii_025.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_026.md",
+        "xhtml": "pohadky_ii_026.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_027.md",
+        "xhtml": "pohadky_ii_027.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_028.md",
+        "xhtml": "pohadky_ii_028.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_029.md",
+        "xhtml": "pohadky_ii_029.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_030.md",
+        "xhtml": "pohadky_ii_030.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_031.md",
+        "xhtml": "pohadky_ii_031.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_032.md",
+        "xhtml": "pohadky_ii_032.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_033.md",
+        "xhtml": "pohadky_ii_033.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_034.md",
+        "xhtml": "pohadky_ii_034.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_035.md",
+        "xhtml": "pohadky_ii_035.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_036.md",
+        "xhtml": "pohadky_ii_036.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_037.md",
+        "xhtml": "pohadky_ii_037.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_038.md",
+        "xhtml": "pohadky_ii_038.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_039.md",
+        "xhtml": "pohadky_ii_039.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_040.md",
+        "xhtml": "pohadky_ii_040.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_041.md",
+        "xhtml": "pohadky_ii_041.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_042.md",
+        "xhtml": "pohadky_ii_042.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_043.md",
+        "xhtml": "pohadky_ii_043.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_044.md",
+        "xhtml": "pohadky_ii_044.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_045.md",
+        "xhtml": "pohadky_ii_045.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_046.md",
+        "xhtml": "pohadky_ii_046.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_047.md",
+        "xhtml": "pohadky_ii_047.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pohadky_ii_048.md",
+        "xhtml": "pohadky_ii_048.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/pohadky_ii_idstyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001_fmt.jpeg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002_fmt.jpeg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_pohadky_ii_fmt.jpeg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy_fmt.jpeg"
+      }
+    ],
+    "classes": [
+      "Footnote-reference",
+      "Hyperlink",
+      "MLP-citacni-str-rozdeleni",
+      "MLP-dopis--I",
+      "MLP-dopis-podpis--I",
+      "MLP-licence-hypertext",
+      "MLP-licence-obrazek",
+      "MLP-licence-paragraf",
+      "MLP-licence-text",
+      "MLP-obrazky",
+      "MLP-pozn-pod-carou",
+      "MLP-text",
+      "MLP-text--0-12",
+      "MLP-text-bez1radku",
+      "MLP-text-bez1radku--0-12",
+      "MLP-text-bez1radku--12-0",
+      "MLP-text-uprostred--I-B",
+      "MLP-tiraz-autor-a-nazev",
+      "MLP-titulka-autor",
+      "MLP-titulka-nazev",
+      "MLP-titulka-prekladatel",
+      "MLP-uroven2-kapitola",
+      "MLP-uroven3-nadpis",
+      "MLP-verse--12-0",
+      "MLP-verse--12-12",
+      "MLP-verse--I---12-12",
+      "MLP-znak-kurziva-11b",
+      "MLP-znak-kurziva-9b",
+      "char-style-override-1",
+      "char-style-override-2",
+      "char-style-override-3",
+      "char-style-override-4",
+      "char-style-override-5",
+      "footnote",
+      "footnote-anchor",
+      "footnote-link",
+      "footnotes",
+      "frame-1",
+      "frame-2",
+      "frame-3",
+      "para-style-override-1",
+      "para-style-override-2",
+      "para-style-override-3",
+      "para-style-override-4"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "pohadky-andersen-II"
+    },
+    "generatedAt": 1646753205120
+  }
+}
