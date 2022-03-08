@@ -1,0 +1,996 @@
+{
+  "author": "Hans Christian Andersen",
+  "contenttype": "prose",
+  "identifier": "andersen-pohadky-ii-fe717f9",
+  "languagecode": "cs",
+  "modified": "2022-03-08T15:26:44.567Z",
+  "publisher": "Městská knihovna v Praze",
+  "title": "Pohádky II",
+  "revision": "fe717f9",
+  "generatedAt": {
+    "date": "Tue Mar 08 2022 15:56:13 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1646754973692
+  },
+  "documents": [
+    {
+      "title": "Pohádky II",
+      "file": "pohadky_ii_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "pohadky_ii_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rajská zahrada • Pohádky II",
+      "file": "pohadky_ii_005.html",
+      "words": 4364,
+      "chars": 25200,
+      "ideas": 120,
+      "role": "chapter",
+      "order": 1,
+      "prev": "pohadky_ii_002.html",
+      "next": "pohadky_ii_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rajská zahrada",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pohanka • Pohádky II",
+      "file": "pohadky_ii_006.html",
+      "words": 502,
+      "chars": 2925,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 2,
+      "prev": "pohadky_ii_005.html",
+      "next": "pohadky_ii_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pohanka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Anděl • Pohádky II",
+      "file": "pohadky_ii_007.html",
+      "words": 751,
+      "chars": 4443,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 3,
+      "prev": "pohadky_ii_006.html",
+      "next": "pohadky_ii_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Anděl",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Obrázek z hradeb • Pohádky II",
+      "file": "pohadky_ii_008.html",
+      "words": 236,
+      "chars": 1443,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 4,
+      "prev": "pohadky_ii_007.html",
+      "next": "pohadky_ii_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Obrázek z hradeb",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Návrší skřítků • Pohádky II",
+      "file": "pohadky_ii_009.html",
+      "words": 2089,
+      "chars": 12203,
+      "ideas": 62,
+      "role": "chapter",
+      "order": 5,
+      "prev": "pohadky_ii_008.html",
+      "next": "pohadky_ii_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Návrší skřítků",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Děvčátko se sirkami • Pohádky II",
+      "file": "pohadky_ii_010.html",
+      "words": 784,
+      "chars": 4587,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 6,
+      "prev": "pohadky_ii_009.html",
+      "next": "pohadky_ii_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Děvčátko se sirkami",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sousedé • Pohádky II",
+      "file": "pohadky_ii_011.html",
+      "words": 3202,
+      "chars": 18383,
+      "ideas": 85,
+      "role": "chapter",
+      "order": 7,
+      "prev": "pohadky_ii_010.html",
+      "next": "pohadky_ii_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sousedé",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Límec • Pohádky II",
+      "file": "pohadky_ii_012.html",
+      "words": 759,
+      "chars": 4366,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 8,
+      "prev": "pohadky_ii_011.html",
+      "next": "pohadky_ii_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Límec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V poslední den • Pohádky II",
+      "file": "pohadky_ii_013.html",
+      "words": 1195,
+      "chars": 7059,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 9,
+      "prev": "pohadky_ii_012.html",
+      "next": "pohadky_ii_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V poslední den",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nejkrásnější růže na světě • Pohádky II",
+      "file": "pohadky_ii_014.html",
+      "words": 660,
+      "chars": 4008,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 10,
+      "prev": "pohadky_ii_013.html",
+      "next": "pohadky_ii_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nejkrásnější růže na světě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Žal srdce • Pohádky II",
+      "file": "pohadky_ii_015.html",
+      "words": 569,
+      "chars": 3335,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 11,
+      "prev": "pohadky_ii_014.html",
+      "next": "pohadky_ii_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Žal srdce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Skřítek u hokynáře • Pohádky II",
+      "file": "pohadky_ii_016.html",
+      "words": 1161,
+      "chars": 6724,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 12,
+      "prev": "pohadky_ii_015.html",
+      "next": "pohadky_ii_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Skřítek u hokynáře",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Za tisíc let • Pohádky II",
+      "file": "pohadky_ii_017.html",
+      "words": 570,
+      "chars": 3512,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 13,
+      "prev": "pohadky_ii_016.html",
+      "next": "pohadky_ii_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Za tisíc let",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pod vrbou • Pohádky II",
+      "file": "pohadky_ii_018.html",
+      "words": 4494,
+      "chars": 25617,
+      "ideas": 117,
+      "role": "chapter",
+      "order": 14,
+      "prev": "pohadky_ii_017.html",
+      "next": "pohadky_ii_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pod vrbou",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poslední perla • Pohádky II",
+      "file": "pohadky_ii_019.html",
+      "words": 671,
+      "chars": 3974,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 15,
+      "prev": "pohadky_ii_018.html",
+      "next": "pohadky_ii_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poslední perla",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dvě panny • Pohádky II",
+      "file": "pohadky_ii_020.html",
+      "words": 483,
+      "chars": 2930,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 16,
+      "prev": "pohadky_ii_019.html",
+      "next": "pohadky_ii_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dvě panny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na konci moře • Pohádky II",
+      "file": "pohadky_ii_021.html",
+      "words": 630,
+      "chars": 3597,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 17,
+      "prev": "pohadky_ii_020.html",
+      "next": "pohadky_ii_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na konci moře",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jakoubek a Kristýnka • Pohádky II",
+      "file": "pohadky_ii_022.html",
+      "words": 3223,
+      "chars": 18512,
+      "ideas": 101,
+      "role": "chapter",
+      "order": 18,
+      "prev": "pohadky_ii_021.html",
+      "next": "pohadky_ii_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jakoubek a Kristýnka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Něco • Pohádky II",
+      "file": "pohadky_ii_023.html",
+      "words": 2009,
+      "chars": 11335,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 19,
+      "prev": "pohadky_ii_022.html",
+      "next": "pohadky_ii_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Něco",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hlásný Ole • Pohádky II",
+      "file": "pohadky_ii_024.html",
+      "words": 1865,
+      "chars": 10964,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 20,
+      "prev": "pohadky_ii_023.html",
+      "next": "pohadky_ii_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hlásný Ole",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "První návštěva",
+              "id": "první-návštěva",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Druhá návštěva",
+              "id": "druhá-návštěva",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Slabikář • Pohádky II",
+      "file": "pohadky_ii_025.html",
+      "words": 1010,
+      "chars": 5679,
+      "ideas": 100,
+      "role": "chapter",
+      "order": 21,
+      "prev": "pohadky_ii_024.html",
+      "next": "pohadky_ii_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Slabikář",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dcera krále močálů • Pohádky II",
+      "file": "pohadky_ii_026.html",
+      "words": 11061,
+      "chars": 64425,
+      "ideas": 318,
+      "role": "chapter",
+      "order": 22,
+      "prev": "pohadky_ii_025.html",
+      "next": "pohadky_ii_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dcera krále močálů",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zvonivá tůň • Pohádky II",
+      "file": "pohadky_ii_027.html",
+      "words": 997,
+      "chars": 5450,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 23,
+      "prev": "pohadky_ii_026.html",
+      "next": "pohadky_ii_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zvonivá tůň",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Anna Bětka • Pohádky II",
+      "file": "pohadky_ii_028.html",
+      "words": 3098,
+      "chars": 17557,
+      "ideas": 83,
+      "role": "chapter",
+      "order": 24,
+      "prev": "pohadky_ii_027.html",
+      "next": "pohadky_ii_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Anna Bětka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Krásná! • Pohádky II",
+      "file": "pohadky_ii_029.html",
+      "words": 2043,
+      "chars": 11998,
+      "ideas": 63,
+      "role": "chapter",
+      "order": 25,
+      "prev": "pohadky_ii_028.html",
+      "next": "pohadky_ii_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Krásná!",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Motýl • Pohádky II",
+      "file": "pohadky_ii_030.html",
+      "words": 704,
+      "chars": 4077,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 26,
+      "prev": "pohadky_ii_029.html",
+      "next": "pohadky_ii_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Motýl",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Psyche • Pohádky II",
+      "file": "pohadky_ii_031.html",
+      "words": 3611,
+      "chars": 21380,
+      "ideas": 101,
+      "role": "chapter",
+      "order": 27,
+      "prev": "pohadky_ii_030.html",
+      "next": "pohadky_ii_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Psyche",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Šnek a růžový keř • Pohádky II",
+      "file": "pohadky_ii_032.html",
+      "words": 637,
+      "chars": 3579,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 28,
+      "prev": "pohadky_ii_031.html",
+      "next": "pohadky_ii_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Šnek a růžový keř",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bludičky jsou ve městě, řekla čarodějnice • Pohádky II",
+      "file": "pohadky_ii_033.html",
+      "words": 3776,
+      "chars": 22074,
+      "ideas": 84,
+      "role": "chapter",
+      "order": 29,
+      "prev": "pohadky_ii_032.html",
+      "next": "pohadky_ii_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bludičky jsou ve městě, řekla čarodějnice",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Větrný mlýn • Pohádky II",
+      "file": "pohadky_ii_034.html",
+      "words": 744,
+      "chars": 4258,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 30,
+      "prev": "pohadky_ii_033.html",
+      "next": "pohadky_ii_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Větrný mlýn",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Petr, Petřík a Petříček • Pohádky II",
+      "file": "pohadky_ii_035.html",
+      "words": 1458,
+      "chars": 8398,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 31,
+      "prev": "pohadky_ii_034.html",
+      "next": "pohadky_ii_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Petr, Petřík a Petříček",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Domovníkův syn • Pohádky II",
+      "file": "pohadky_ii_036.html",
+      "words": 5213,
+      "chars": 30853,
+      "ideas": 164,
+      "role": "chapter",
+      "order": 32,
+      "prev": "pohadky_ii_035.html",
+      "next": "pohadky_ii_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Domovníkův syn",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Povídka slunečního paprsku • Pohádky II",
+      "file": "pohadky_ii_037.html",
+      "words": 802,
+      "chars": 4675,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 33,
+      "prev": "pohadky_ii_036.html",
+      "next": "pohadky_ii_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Povídka slunečního paprsku",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Husopaska Markétka a její rodina • Pohádky II",
+      "file": "pohadky_ii_038.html",
+      "words": 3827,
+      "chars": 22282,
+      "ideas": 86,
+      "role": "chapter",
+      "order": 34,
+      "prev": "pohadky_ii_037.html",
+      "next": "pohadky_ii_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Husopaska Markétka a její rodina",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nejneuvěřitelnější věc • Pohádky II",
+      "file": "pohadky_ii_039.html",
+      "words": 996,
+      "chars": 6009,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 35,
+      "prev": "pohadky_ii_038.html",
+      "next": "pohadky_ii_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nejneuvěřitelnější věc",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Štěstí může ležet v dřívku • Pohádky II",
+      "file": "pohadky_ii_040.html",
+      "words": 749,
+      "chars": 4340,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 36,
+      "prev": "pohadky_ii_039.html",
+      "next": "pohadky_ii_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Štěstí může ležet v dřívku",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dny v týdnu • Pohádky II",
+      "file": "pohadky_ii_041.html",
+      "words": 633,
+      "chars": 3667,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 37,
+      "prev": "pohadky_ii_040.html",
+      "next": "pohadky_ii_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dny v týdnu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Svíčky • Pohádky II",
+      "file": "pohadky_ii_042.html",
+      "words": 726,
+      "chars": 4314,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 38,
+      "prev": "pohadky_ii_041.html",
+      "next": "pohadky_ii_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Svíčky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Velký mořský had • Pohádky II",
+      "file": "pohadky_ii_043.html",
+      "words": 2750,
+      "chars": 15920,
+      "ideas": 90,
+      "role": "chapter",
+      "order": 39,
+      "prev": "pohadky_ii_042.html",
+      "next": "pohadky_ii_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Velký mořský had",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Klíč od vrat • Pohádky II",
+      "file": "pohadky_ii_044.html",
+      "words": 3315,
+      "chars": 19659,
+      "ideas": 90,
+      "role": "chapter",
+      "order": 40,
+      "prev": "pohadky_ii_043.html",
+      "next": "pohadky_ii_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Klíč od vrat",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O tetce Zubybol • Pohádky II",
+      "file": "pohadky_ii_045.html",
+      "words": 3331,
+      "chars": 19316,
+      "ideas": 85,
+      "role": "chapter",
+      "order": 41,
+      "prev": "pohadky_ii_044.html",
+      "next": "pohadky_ii_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O tetce Zubybol",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I",
+              "id": "i",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II",
+              "id": "ii",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "III",
+              "id": "iii",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "IV",
+              "id": "iv",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Zelenáčci • Pohádky II",
+      "file": "pohadky_ii_046.html",
+      "words": 554,
+      "chars": 3228,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 42,
+      "prev": "pohadky_ii_045.html",
+      "next": "pohadky_ii_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zelenáčci",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dva ostrůvky • Pohádky II",
+      "file": "pohadky_ii_047.html",
+      "words": 572,
+      "chars": 3399,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 43,
+      "prev": "pohadky_ii_046.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dva ostrůvky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Pohádky II",
+      "file": "colophon.html",
+      "words": 151,
+      "chars": 993,
+      "ideas": 25,
+      "role": "colophon",
+      "order": null,
+      "prev": "pohadky_ii_047.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Pohádky",
+              "id": "pohádky",
+              "children": [
+                {
+                  "index": 2,
+                  "level": 3,
+                  "name": "Hans Christian Andersen",
+                  "id": "hans-christian-andersen",
+                  "children": [
+                    {
+                      "index": 3,
+                      "level": 4,
+                      "name": "Přeložil Gustav Pallas",
+                      "id": "_přeložil-gustav-pallas_",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 82980,
+      "chars": 482680,
+      "ideas": 2470
+    },
+    "chapters": {
+      "words": 82824,
+      "chars": 481654,
+      "ideas": 2443
+    }
+  }
+}
