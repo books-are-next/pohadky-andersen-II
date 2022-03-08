@@ -32,6 +32,7 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "pohadky_ii_001.md",
@@ -91,7 +92,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Rajská zahrada"
           },
           {
             "filename": "pohadky_ii_006.md",
@@ -103,7 +105,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Pohanka"
           },
           {
             "filename": "pohadky_ii_007.md",
@@ -115,7 +118,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Anděl"
           },
           {
             "filename": "pohadky_ii_008.md",
@@ -127,7 +131,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Obrázek z hradeb"
           },
           {
             "filename": "pohadky_ii_009.md",
@@ -139,7 +144,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Návrší skřítků"
           },
           {
             "filename": "pohadky_ii_010.md",
@@ -151,7 +157,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Děvčátko se sirkami"
           },
           {
             "filename": "pohadky_ii_011.md",
@@ -163,7 +170,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Sousedé"
           },
           {
             "filename": "pohadky_ii_012.md",
@@ -175,7 +183,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Límec"
           },
           {
             "filename": "pohadky_ii_013.md",
@@ -187,7 +196,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "V poslední den"
           },
           {
             "filename": "pohadky_ii_014.md",
@@ -199,7 +209,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Nejkrásnější růže na světě"
           },
           {
             "filename": "pohadky_ii_015.md",
@@ -211,7 +222,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Žal srdce"
           },
           {
             "filename": "pohadky_ii_016.md",
@@ -223,7 +235,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Skřítek u hokynáře"
           },
           {
             "filename": "pohadky_ii_017.md",
@@ -235,7 +248,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Za tisíc let"
           },
           {
             "filename": "pohadky_ii_018.md",
@@ -247,7 +261,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Pod vrbou"
           },
           {
             "filename": "pohadky_ii_019.md",
@@ -259,7 +274,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Poslední perla"
           },
           {
             "filename": "pohadky_ii_020.md",
@@ -271,7 +287,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Dvě panny"
           },
           {
             "filename": "pohadky_ii_021.md",
@@ -283,7 +300,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Na konci moře"
           },
           {
             "filename": "pohadky_ii_022.md",
@@ -295,7 +313,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Jakoubek a Kristýnka"
           },
           {
             "filename": "pohadky_ii_023.md",
@@ -307,7 +326,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Něco"
           },
           {
             "filename": "pohadky_ii_024.md",
@@ -319,7 +339,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Hlásný Ole"
           },
           {
             "filename": "pohadky_ii_025.md",
@@ -331,7 +352,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Slabikář"
           },
           {
             "filename": "pohadky_ii_026.md",
@@ -343,7 +365,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Dcera krále močálů"
           },
           {
             "filename": "pohadky_ii_027.md",
@@ -355,7 +378,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Zvonivá tůň"
           },
           {
             "filename": "pohadky_ii_028.md",
@@ -367,7 +391,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Anna Bětka"
           },
           {
             "filename": "pohadky_ii_029.md",
@@ -379,7 +404,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Krásná!"
           },
           {
             "filename": "pohadky_ii_030.md",
@@ -391,7 +417,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Motýl"
           },
           {
             "filename": "pohadky_ii_031.md",
@@ -403,7 +430,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Psyche"
           },
           {
             "filename": "pohadky_ii_032.md",
@@ -415,7 +443,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Šnek a růžový keř"
           },
           {
             "filename": "pohadky_ii_033.md",
@@ -427,7 +456,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Bludičky jsou ve městě, řekla čarodějnice"
           },
           {
             "filename": "pohadky_ii_034.md",
@@ -439,7 +469,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Větrný mlýn"
           },
           {
             "filename": "pohadky_ii_035.md",
@@ -451,7 +482,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Petr, Petřík a Petříček"
           },
           {
             "filename": "pohadky_ii_036.md",
@@ -463,7 +495,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Domovníkův syn"
           },
           {
             "filename": "pohadky_ii_037.md",
@@ -475,7 +508,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Povídka slunečního paprsku"
           },
           {
             "filename": "pohadky_ii_038.md",
@@ -487,7 +521,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Husopaska Markétka a její rodina"
           },
           {
             "filename": "pohadky_ii_039.md",
@@ -499,7 +534,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Nejneuvěřitelnější věc"
           },
           {
             "filename": "pohadky_ii_040.md",
@@ -511,7 +547,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Štěstí může ležet v dřívku"
           },
           {
             "filename": "pohadky_ii_041.md",
@@ -523,7 +560,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Dny v týdnu"
           },
           {
             "filename": "pohadky_ii_042.md",
@@ -535,7 +573,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Svíčky"
           },
           {
             "filename": "pohadky_ii_043.md",
@@ -547,7 +586,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Velký mořský had"
           },
           {
             "filename": "pohadky_ii_044.md",
@@ -559,7 +599,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Klíč od vrat"
           },
           {
             "filename": "pohadky_ii_045.md",
@@ -571,7 +612,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "O tetce Zubybol"
           },
           {
             "filename": "pohadky_ii_046.md",
@@ -583,7 +625,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Zelenáčci"
           },
           {
             "filename": "pohadky_ii_047.md",
@@ -595,7 +638,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Dva ostrůvky"
           },
           {
             "filename": "pohadky_ii_048.md",
@@ -620,7 +664,7 @@
       "identifier": "urn:uuid:6c5fc4ad-4c0d-4828-a138-4bf8f14299a8",
       "author": "Hans Christian Andersen",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-08T15:55:08.037Z"
+      "modified": "2022-03-08T16:07:15.299Z"
     },
     "chapters": [
       {
@@ -988,6 +1032,6 @@
       "user": "books-are-next",
       "repo": "pohadky-andersen-II"
     },
-    "generatedAt": 1646754908868
+    "generatedAt": 1646755636405
   }
 }
