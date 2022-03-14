@@ -1,15 +1,17 @@
 {
   "author": "Hans Christian Andersen",
   "contenttype": "prose",
-  "identifier": "andersen-pohadky-ii-d5b6f91",
+  "edition": "beletrie",
+  "identifier": "andersen-pohadky-ii-2597f70",
   "languagecode": "cs",
   "modified": "2022-03-08T15:26:44.567Z",
   "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
   "title": "Pohádky II",
-  "revision": "d5b6f91",
+  "revision": "2597f70",
   "generatedAt": {
-    "date": "Tue Mar 08 2022 16:08:25 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1646755705605
+    "date": "Mon Mar 14 2022 09:53:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1647251623033
   },
   "documents": [
     {
@@ -983,9 +985,9 @@
   ],
   "totals": {
     "all": {
-      "words": 82980,
-      "chars": 482680,
-      "ideas": 2470
+      "words": 82982,
+      "chars": 482691,
+      "ideas": 2472
     },
     "chapters": {
       "words": 82824,

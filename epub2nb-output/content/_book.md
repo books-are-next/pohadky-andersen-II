@@ -11,6 +11,8 @@ meta:
   author: Hans Christian Andersen
   publisher: Městská knihovna v Praze
   modified: '2022-03-08T15:26:44.567Z'
+  edition: beletrie
+  publisherShort: mkp
 readingOrder:
   - pohadky_ii_002.html
   - pohadky_ii_005.html
