@@ -14,7 +14,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - pohadky_ii_002.html
+  - promo.html
   - pohadky_ii_005.html
   - pohadky_ii_006.html
   - pohadky_ii_007.html
