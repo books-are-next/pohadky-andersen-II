@@ -2,15 +2,15 @@
 title: Tiráž
 ---
 
-***
-
-## Pohádky  
-II
-
-### Hans Christian Andersen
-
-#### _Přeložil Gustav Pallas_
-
+**Hans Christian Andersen    
+Pohádky II**  
+Edice Literatura pro děti a mládež  
+Překlad Gustav Pallas  
+Ilustrace na obálce EhayDy/Shutterstock.com  
+Redakce Markéta Teuchnerová  
+Vydala Městská knihovna v Praze  
+Mariánské nám. 1, 115 72 Praha 1  
+1. vydání z 12. 5. 2022.
 
 ***
 
@@ -26,58 +26,7 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
   
 
-Verze 1.0 z 12. 2. 2019.
 
   
 
 ![image002.jpg](./resources/image002_fmt.jpeg)
-
-
-***
-
-**Hans Christian Andersen  
-Pohádky II**
-
-  
-
-Edice Literatura pro děti a mládež
-
-  
-
-Překlad Gustav Pallas
-
-  
-
-Ilustrace na obálce EhayDy/Shutterstock.com
-
-  
-
-Redakce Markéta Teuchnerová
-
-  
-
-Vydala Městská knihovna v Praze
-
-  
-
-Mariánské nám. 1, 115 72 Praha 1
-
-  
-
-V MKP 1. vydání
-
-  
-
-Verze 1.0 z 12. 2. 2019
-
-  
-
-ISBN 978-80-7602-497-7 (epub)
-
-  
-
-ISBN 978-80-7602-498-4 (pdf)
-
-  
-
-ISBN 978-80-7602-499-1 (prc)

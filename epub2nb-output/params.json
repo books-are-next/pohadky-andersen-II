@@ -52,7 +52,7 @@
             "filename": "pohadky_ii_002.md",
             "xhtml": "pohadky_ii_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -657,8 +657,7 @@
           }
         ]
       }
-    ],
-    "replacements": []
+    ]
   },
   "epub": {
     "metadata": {
@@ -666,7 +665,7 @@
       "identifier": "urn:uuid:6c5fc4ad-4c0d-4828-a138-4bf8f14299a8",
       "author": "Hans Christian Andersen",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-14T09:52:43.553Z"
+      "modified": "2019-02-12T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -1034,6 +1033,6 @@
       "user": "books-are-next",
       "repo": "pohadky-andersen-II"
     },
-    "generatedAt": 1647251564519
+    "generatedAt": 1652351459986
   }
 }

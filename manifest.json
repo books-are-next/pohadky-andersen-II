@@ -1,22 +1,70 @@
 {
-  "author": "Hans Christian Andersen",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "andersen-pohadky-ii-2597f70",
-  "languagecode": "cs",
-  "modified": "2022-03-08T15:26:44.567Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Pohádky II",
-  "revision": "2597f70",
+  "author": "Hans Christian Andersen",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "andersen-pohadky-ii-341dc84",
+  "revision": "341dc84",
+  "readingOrder": [
+    "promo.html",
+    "pohadky_ii_005.html",
+    "pohadky_ii_006.html",
+    "pohadky_ii_007.html",
+    "pohadky_ii_008.html",
+    "pohadky_ii_009.html",
+    "pohadky_ii_010.html",
+    "pohadky_ii_011.html",
+    "pohadky_ii_012.html",
+    "pohadky_ii_013.html",
+    "pohadky_ii_014.html",
+    "pohadky_ii_015.html",
+    "pohadky_ii_016.html",
+    "pohadky_ii_017.html",
+    "pohadky_ii_018.html",
+    "pohadky_ii_019.html",
+    "pohadky_ii_020.html",
+    "pohadky_ii_021.html",
+    "pohadky_ii_022.html",
+    "pohadky_ii_023.html",
+    "pohadky_ii_024.html",
+    "pohadky_ii_025.html",
+    "pohadky_ii_026.html",
+    "pohadky_ii_027.html",
+    "pohadky_ii_028.html",
+    "pohadky_ii_029.html",
+    "pohadky_ii_030.html",
+    "pohadky_ii_031.html",
+    "pohadky_ii_032.html",
+    "pohadky_ii_033.html",
+    "pohadky_ii_034.html",
+    "pohadky_ii_035.html",
+    "pohadky_ii_036.html",
+    "pohadky_ii_037.html",
+    "pohadky_ii_038.html",
+    "pohadky_ii_039.html",
+    "pohadky_ii_040.html",
+    "pohadky_ii_041.html",
+    "pohadky_ii_042.html",
+    "pohadky_ii_043.html",
+    "pohadky_ii_044.html",
+    "pohadky_ii_045.html",
+    "pohadky_ii_046.html",
+    "pohadky_ii_047.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Mon Mar 14 2022 09:53:43 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1647251623033
+    "date": "Thu May 12 2022 10:39:39 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351979208
   },
   "documents": [
     {
-      "title": "Pohádky II",
-      "file": "pohadky_ii_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,25 +72,17 @@
       "order": 0,
       "prev": null,
       "next": "pohadky_ii_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Rajská zahrada • Pohádky II",
+      "title": "Rajská zahrada",
       "file": "pohadky_ii_005.html",
       "words": 4364,
       "chars": 25200,
       "ideas": 120,
       "role": "chapter",
       "order": 1,
-      "prev": "pohadky_ii_002.html",
+      "prev": "promo.html",
       "next": "pohadky_ii_006.html",
       "toc": [
         {
@@ -55,7 +95,7 @@
       ]
     },
     {
-      "title": "Pohanka • Pohádky II",
+      "title": "Pohanka",
       "file": "pohadky_ii_006.html",
       "words": 502,
       "chars": 2925,
@@ -75,7 +115,7 @@
       ]
     },
     {
-      "title": "Anděl • Pohádky II",
+      "title": "Anděl",
       "file": "pohadky_ii_007.html",
       "words": 751,
       "chars": 4443,
@@ -95,7 +135,7 @@
       ]
     },
     {
-      "title": "Obrázek z hradeb • Pohádky II",
+      "title": "Obrázek z hradeb",
       "file": "pohadky_ii_008.html",
       "words": 236,
       "chars": 1443,
@@ -115,7 +155,7 @@
       ]
     },
     {
-      "title": "Návrší skřítků • Pohádky II",
+      "title": "Návrší skřítků",
       "file": "pohadky_ii_009.html",
       "words": 2089,
       "chars": 12203,
@@ -135,7 +175,7 @@
       ]
     },
     {
-      "title": "Děvčátko se sirkami • Pohádky II",
+      "title": "Děvčátko se sirkami",
       "file": "pohadky_ii_010.html",
       "words": 784,
       "chars": 4587,
@@ -155,7 +195,7 @@
       ]
     },
     {
-      "title": "Sousedé • Pohádky II",
+      "title": "Sousedé",
       "file": "pohadky_ii_011.html",
       "words": 3202,
       "chars": 18383,
@@ -175,7 +215,7 @@
       ]
     },
     {
-      "title": "Límec • Pohádky II",
+      "title": "Límec",
       "file": "pohadky_ii_012.html",
       "words": 759,
       "chars": 4366,
@@ -195,7 +235,7 @@
       ]
     },
     {
-      "title": "V poslední den • Pohádky II",
+      "title": "V poslední den",
       "file": "pohadky_ii_013.html",
       "words": 1195,
       "chars": 7059,
@@ -215,7 +255,7 @@
       ]
     },
     {
-      "title": "Nejkrásnější růže na světě • Pohádky II",
+      "title": "Nejkrásnější růže na světě",
       "file": "pohadky_ii_014.html",
       "words": 660,
       "chars": 4008,
@@ -235,7 +275,7 @@
       ]
     },
     {
-      "title": "Žal srdce • Pohádky II",
+      "title": "Žal srdce",
       "file": "pohadky_ii_015.html",
       "words": 569,
       "chars": 3335,
@@ -255,7 +295,7 @@
       ]
     },
     {
-      "title": "Skřítek u hokynáře • Pohádky II",
+      "title": "Skřítek u hokynáře",
       "file": "pohadky_ii_016.html",
       "words": 1161,
       "chars": 6724,
@@ -275,7 +315,7 @@
       ]
     },
     {
-      "title": "Za tisíc let • Pohádky II",
+      "title": "Za tisíc let",
       "file": "pohadky_ii_017.html",
       "words": 570,
       "chars": 3512,
@@ -295,7 +335,7 @@
       ]
     },
     {
-      "title": "Pod vrbou • Pohádky II",
+      "title": "Pod vrbou",
       "file": "pohadky_ii_018.html",
       "words": 4494,
       "chars": 25617,
@@ -315,7 +355,7 @@
       ]
     },
     {
-      "title": "Poslední perla • Pohádky II",
+      "title": "Poslední perla",
       "file": "pohadky_ii_019.html",
       "words": 671,
       "chars": 3974,
@@ -335,7 +375,7 @@
       ]
     },
     {
-      "title": "Dvě panny • Pohádky II",
+      "title": "Dvě panny",
       "file": "pohadky_ii_020.html",
       "words": 483,
       "chars": 2930,
@@ -355,7 +395,7 @@
       ]
     },
     {
-      "title": "Na konci moře • Pohádky II",
+      "title": "Na konci moře",
       "file": "pohadky_ii_021.html",
       "words": 630,
       "chars": 3597,
@@ -375,7 +415,7 @@
       ]
     },
     {
-      "title": "Jakoubek a Kristýnka • Pohádky II",
+      "title": "Jakoubek a Kristýnka",
       "file": "pohadky_ii_022.html",
       "words": 3223,
       "chars": 18512,
@@ -395,7 +435,7 @@
       ]
     },
     {
-      "title": "Něco • Pohádky II",
+      "title": "Něco",
       "file": "pohadky_ii_023.html",
       "words": 2009,
       "chars": 11335,
@@ -415,7 +455,7 @@
       ]
     },
     {
-      "title": "Hlásný Ole • Pohádky II",
+      "title": "Hlásný Ole",
       "file": "pohadky_ii_024.html",
       "words": 1865,
       "chars": 10964,
@@ -450,7 +490,7 @@
       ]
     },
     {
-      "title": "Slabikář • Pohádky II",
+      "title": "Slabikář",
       "file": "pohadky_ii_025.html",
       "words": 1010,
       "chars": 5679,
@@ -470,7 +510,7 @@
       ]
     },
     {
-      "title": "Dcera krále močálů • Pohádky II",
+      "title": "Dcera krále močálů",
       "file": "pohadky_ii_026.html",
       "words": 11061,
       "chars": 64425,
@@ -490,7 +530,7 @@
       ]
     },
     {
-      "title": "Zvonivá tůň • Pohádky II",
+      "title": "Zvonivá tůň",
       "file": "pohadky_ii_027.html",
       "words": 997,
       "chars": 5450,
@@ -510,7 +550,7 @@
       ]
     },
     {
-      "title": "Anna Bětka • Pohádky II",
+      "title": "Anna Bětka",
       "file": "pohadky_ii_028.html",
       "words": 3098,
       "chars": 17557,
@@ -530,7 +570,7 @@
       ]
     },
     {
-      "title": "Krásná! • Pohádky II",
+      "title": "Krásná!",
       "file": "pohadky_ii_029.html",
       "words": 2043,
       "chars": 11998,
@@ -550,7 +590,7 @@
       ]
     },
     {
-      "title": "Motýl • Pohádky II",
+      "title": "Motýl",
       "file": "pohadky_ii_030.html",
       "words": 704,
       "chars": 4077,
@@ -570,7 +610,7 @@
       ]
     },
     {
-      "title": "Psyche • Pohádky II",
+      "title": "Psyche",
       "file": "pohadky_ii_031.html",
       "words": 3611,
       "chars": 21380,
@@ -590,7 +630,7 @@
       ]
     },
     {
-      "title": "Šnek a růžový keř • Pohádky II",
+      "title": "Šnek a růžový keř",
       "file": "pohadky_ii_032.html",
       "words": 637,
       "chars": 3579,
@@ -610,7 +650,7 @@
       ]
     },
     {
-      "title": "Bludičky jsou ve městě, řekla čarodějnice • Pohádky II",
+      "title": "Bludičky jsou ve městě, řekla čarodějnice",
       "file": "pohadky_ii_033.html",
       "words": 3776,
       "chars": 22074,
@@ -630,7 +670,7 @@
       ]
     },
     {
-      "title": "Větrný mlýn • Pohádky II",
+      "title": "Větrný mlýn",
       "file": "pohadky_ii_034.html",
       "words": 744,
       "chars": 4258,
@@ -650,7 +690,7 @@
       ]
     },
     {
-      "title": "Petr, Petřík a Petříček • Pohádky II",
+      "title": "Petr, Petřík a Petříček",
       "file": "pohadky_ii_035.html",
       "words": 1458,
       "chars": 8398,
@@ -670,7 +710,7 @@
       ]
     },
     {
-      "title": "Domovníkův syn • Pohádky II",
+      "title": "Domovníkův syn",
       "file": "pohadky_ii_036.html",
       "words": 5213,
       "chars": 30853,
@@ -690,7 +730,7 @@
       ]
     },
     {
-      "title": "Povídka slunečního paprsku • Pohádky II",
+      "title": "Povídka slunečního paprsku",
       "file": "pohadky_ii_037.html",
       "words": 802,
       "chars": 4675,
@@ -710,7 +750,7 @@
       ]
     },
     {
-      "title": "Husopaska Markétka a její rodina • Pohádky II",
+      "title": "Husopaska Markétka a její rodina",
       "file": "pohadky_ii_038.html",
       "words": 3827,
       "chars": 22282,
@@ -730,7 +770,7 @@
       ]
     },
     {
-      "title": "Nejneuvěřitelnější věc • Pohádky II",
+      "title": "Nejneuvěřitelnější věc",
       "file": "pohadky_ii_039.html",
       "words": 996,
       "chars": 6009,
@@ -750,7 +790,7 @@
       ]
     },
     {
-      "title": "Štěstí může ležet v dřívku • Pohádky II",
+      "title": "Štěstí může ležet v dřívku",
       "file": "pohadky_ii_040.html",
       "words": 749,
       "chars": 4340,
@@ -770,7 +810,7 @@
       ]
     },
     {
-      "title": "Dny v týdnu • Pohádky II",
+      "title": "Dny v týdnu",
       "file": "pohadky_ii_041.html",
       "words": 633,
       "chars": 3667,
@@ -790,7 +830,7 @@
       ]
     },
     {
-      "title": "Svíčky • Pohádky II",
+      "title": "Svíčky",
       "file": "pohadky_ii_042.html",
       "words": 726,
       "chars": 4314,
@@ -810,7 +850,7 @@
       ]
     },
     {
-      "title": "Velký mořský had • Pohádky II",
+      "title": "Velký mořský had",
       "file": "pohadky_ii_043.html",
       "words": 2750,
       "chars": 15920,
@@ -830,7 +870,7 @@
       ]
     },
     {
-      "title": "Klíč od vrat • Pohádky II",
+      "title": "Klíč od vrat",
       "file": "pohadky_ii_044.html",
       "words": 3315,
       "chars": 19659,
@@ -850,7 +890,7 @@
       ]
     },
     {
-      "title": "O tetce Zubybol • Pohádky II",
+      "title": "O tetce Zubybol",
       "file": "pohadky_ii_045.html",
       "words": 3331,
       "chars": 19316,
@@ -899,7 +939,7 @@
       ]
     },
     {
-      "title": "Zelenáčci • Pohádky II",
+      "title": "Zelenáčci",
       "file": "pohadky_ii_046.html",
       "words": 554,
       "chars": 3228,
@@ -919,7 +959,7 @@
       ]
     },
     {
-      "title": "Dva ostrůvky • Pohádky II",
+      "title": "Dva ostrůvky",
       "file": "pohadky_ii_047.html",
       "words": 572,
       "chars": 3399,
@@ -939,11 +979,11 @@
       ]
     },
     {
-      "title": "Tiráž • Pohádky II",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 151,
-      "chars": 993,
-      "ideas": 25,
+      "words": 125,
+      "chars": 814,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "pohadky_ii_047.html",
@@ -954,40 +994,16 @@
           "level": 1,
           "name": "Tiráž",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Pohádky",
-              "id": "pohádky",
-              "children": [
-                {
-                  "index": 2,
-                  "level": 3,
-                  "name": "Hans Christian Andersen",
-                  "id": "hans-christian-andersen",
-                  "children": [
-                    {
-                      "index": 3,
-                      "level": 4,
-                      "name": "Přeložil Gustav Pallas",
-                      "id": "_přeložil-gustav-pallas_",
-                      "children": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "children": []
         }
       ]
     }
   ],
   "totals": {
     "all": {
-      "words": 82982,
-      "chars": 482691,
-      "ideas": 2472
+      "words": 82956,
+      "chars": 482512,
+      "ideas": 2464
     },
     "chapters": {
       "words": 82824,
