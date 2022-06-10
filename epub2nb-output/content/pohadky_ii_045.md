@@ -3,6 +3,8 @@ title: "O\_tetce Zubybol"
 contentType: prose
 ---
 
+<section>
+
 Odkud máte tuhle povídku?
 
 Chceš to vědět? Mám ji z koše, do něhož se házejí staré papíry.
@@ -163,7 +165,9 @@ Byla to tedy teta Emilie.
 
 A já dal dohromady, co je tu napsáno. Není to ve verších a nebudiž to nikdy otištěno.
 
-  
+</section>
+
+<section>
 
 Tady rukopis končil.
 
@@ -172,3 +176,5 @@ Mému mladému příteli, budoucímu kupeckému tovaryšovi, se nepodařilo sehn
 A to je konec povídky o tetce zvané Zubybol.
 
 [^25]: Pikola, dřevěný dechový nástroj, menší varianta příčné flétny. _Pozn. red._
+
+</section>

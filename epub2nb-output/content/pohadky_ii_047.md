@@ -3,6 +3,8 @@ title: Dva ostrůvky
 contentType: prose
 ---
 
+<section>
+
 U själlandských břehů ležely kdysi proti hradu Holštýnu dva lesnaté ostrovy – Vaenö a Glaenö. Stála na nich vesnice s hospodářskými usedlostmi a byly blízko břehu, byly blízko sebe.
 
 Nyní je z nich jenom jediný ostrov.
@@ -46,3 +48,5 @@ Nebyla žádná bouřlivá noc. Stalo se to za jasného slunečného dne. Lidsk�
 Nepřišlo si Vaenö pro Glaenö, nýbrž Själland vztáhl ramena svých hrází – slavnostně pronesl kouzelná zásnubní slova a získal za ně věnem mnoho tun země.
 
 Je to pravda, je to úředně doloženo, ale máš-li smysl pro pověst, tedy ostrov Glaenö zmizel.
+
+</section>

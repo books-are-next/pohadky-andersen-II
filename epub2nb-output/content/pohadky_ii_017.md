@@ -3,6 +3,8 @@ title: Za tisíc let
 contentType: prose
 ---
 
+<section>
+
 Ano, za tisíc let přeletí mladí obyvatelé Ameriky na křídlech páry světové moře a navštíví starou Evropu! Vydají se za jejími pomníky a památnými místy, jako my se vydáváme za rozpadávajícími se krásami Asie. Za tisíc let přijdou!
 
 Vody Temže, Dunaje a Rýna dlí ještě ve svých korytech, Montblank se stále pyšní svým sněžným vrcholem, severní záře dosud osvětluje chladné kraje, ale generace za generací se mění v prach. Doboví vládci jsou zapomenuti stejně jako ti, kteří sní svůj poslední sen pod travnatým pahorkem, na němž si bohatý mlynář nechal postavit lavičku, aby se kochal pohledem na lány vlnícího se obilí.
@@ -30,3 +32,5 @@ A zase letí dál. Přes zbytky mocných měst při břehu silného Dunaje. Tu 
 Jednodenní pobyt v Německu a jeden den na severu, ve vlasti Hanse Christiana Oersteda, objevitele elektromagnetismu, Karla Linného, jenž rozdělil rostlinstvo podle druhů, a v zemi starých hrdinů a mladých Norů. Island navštíví na zpáteční cestě. Gejzíry přestaly vřít, Hekla vyhasla, ale jako věčná sága zvedá se dál mocný skalní ostrov v hučícím moři.
 
 „Opravdu mnoho je toho v Evropě k vidění!“ řekne jeden z mladých Američanů. „A zvládli jsme to za osm dní. Ano, dá se toho stihnout tolik, kolik ani velký cestovatel…“ – vysloví se jméno, jež patří k současnosti – „… ve svém slavném díle ‚Evropa, prohlédnuta za osm dní‘ stihnout nedokázal.“
+
+</section>

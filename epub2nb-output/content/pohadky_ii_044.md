@@ -3,6 +3,8 @@ title: Klíč od vrat
 contentType: prose
 ---
 
+<section>
+
 Každý klíč má svoji historii a je mnoho klíčů – klíč od komory, klíč k hodinám, petrklíč… Ale nemůžeme vyprávět o všech, a tak povíme něco jen o klíči od domu pana komořího. Byl zhotoven u zámečníka, ale mohl bys klidně myslet, že vznikl u podkováře, tak na něm řemeslník pracoval, koval a piloval. Byl příliš velký na kapsu u kalhot, a proto doprovázel-li svého pána, musel do kapsy u kabátu. Tam ležel povětšinou v nejhlubší tmě, ale jinak měl svoje pevné místo na zdi, hned vedle dětské podobenky pana komořího, té, na níž vypadal jako knedlík s telecími droby.
 
 Říká se, že každý člověk má v povaze a způsobu jednání cosi z nebeského znamení, v němž se narodil – _Býk_, _Panna_ anebo _Štír_ je obvykle nazývají v kalendáři. Žena komořího ale nejmenovala žádné z nich, říkala, že se její muž narodil „ve znamení trakaře“, protože také musí být stále postrkován vpřed. Jeho otec ho strčil do kanceláře, matka zase do manželství a jeho žena jej strkala nahoru, až se stal komořím. Avšak o tom posledním nemluvila. Byla to nejen rozšafná a moudrá, ale i hodná žena, která mlčela na pravém místě a mluvila a strkala rovněž na správném místě.
@@ -180,3 +182,5 @@ Tak se Lotta-Lenka stala paní komoří.
 „Vítězství a štěstí!“ Dvě slova, která byla již dříve řečena – klíčem od vrat.
 
 [^24]: Kodaňský zábavní park. _Pozn. red._
+
+</section>

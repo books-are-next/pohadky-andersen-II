@@ -3,6 +3,8 @@ title: Zvonivá tůň
 contentType: prose
 ---
 
+<section>
+
 „Bim – bam! Bim – bam!“ je slyšet ze „zvonivé“ tůně v řece Odense. Jaká je to řeka?
 
 Zná ji každé dítě ve městě stejného jména. Teče pod zahradami, od splavu k mlýnu, pod dřevěnými mosty. Rostou u ní zářivě žluté blatouchy i vysoký hnědě zbarvený rákos a na slatinném břehu nedaleko bělidla hledí přes vodu staré, sehnuté a všelijak pokroucené vrby s rozprýskanou kůrou.
@@ -66,3 +68,5 @@ A když všechny kostelní zvony nahoře vesele hlaholí, tvrdí, že to nehlah
 „Vzduch ví všechno! Je kolem nás, je v nás, hovoří o našich myšlenkách i o našich skutcích. A jeho hlas se rozléhá dál, nežli myslíš, že se rozléhá hlas zvonu v řece Odense, kde bydlí vodník. Nese se do velké tůně nebeské, daleko, předaleko, nese se věčně a vždy, když nebeské zvony zahlaholí:
 
 Bim – bam! Bim – bam!“
+
+</section>

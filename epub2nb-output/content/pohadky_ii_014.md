@@ -3,6 +3,8 @@ title: Nejkrásnější růže na světě
 contentType: prose
 ---
 
+<section>
+
 Byla jedna mocná královna a ta měla ve své zahradě nejkrásnější květiny ze všech zemí světa. Především však milovala růže. Vlastnila nerozmanitější druhy – divoké plané růže se zelenými lístky jablkové vůně i nejpůvabnější provensálské růže vyrůstaly při zámeckých zdech, vinuly se kolem sloupů, protahovaly se okenními římsami do chodeb a plazily se po stropech sálů. To bylo přepestrých vůní, barev i tvarů!
 
 Přesto smutek a bol dlely uvnitř komnat. Královna ležela na loži těžce nemocná a lékaři prohlásili, že její dny jsou sečteny.
@@ -42,3 +44,5 @@ A růžový svit přeběhl královniny tváře, její oči byly zase velké a 
 „Vidím ji,“ pravila, „ano, nikdy nezemře ten, kdo spatří tuto růži, nejkrásnější na světě!“
 
 [^4]: Arnold von Winkelried byl legendární švýcarský hrdina z bojů proti Habs­burkům ve 14. století. _Pozn. red._
+
+</section>

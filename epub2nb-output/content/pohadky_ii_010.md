@@ -3,6 +3,8 @@ title: Děvčátko se sirkami
 contentType: prose
 ---
 
+<section>
+
 Byla strašlivá zima. Sněžilo a nastával tmavý večer, poslední v roce, večer silvestrovský.
 
 A v té zimě a temnotě šlo městem malé chudobné děvčátko, prostovlasé a bosé.
@@ -46,3 +48,5 @@ Mrazivé ráno našlo v koutě domu sedět dívenku s červenými tvářičkam
 Nadobro zmrzla v poslední večer starého roku – bílý den kráčel již jen přes její malou mrtvolku svírající v rukou téměř vyškrtaný balíček sirek.
 
 „Chtěla se ohřát,“ říkali kolemjdoucí – neboť nikdo z nich netušil, jaké krásy spatřila a s jakou radostí a nádherou vstoupila se starou babičkou do Nového roku.
+
+</section>

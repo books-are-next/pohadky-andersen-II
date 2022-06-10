@@ -3,6 +3,8 @@ title: "Šnek a\_růžový keř"
 contentType: prose
 ---
 
+<section>
+
 Kolem zahrady byl plot ze vzrostlých lísek a za ním se rozkládala pole a louky s kravami a ovcemi. Uprostřed zahrady stál kvetoucí růžový keř a pod ním seděl šnek, skálopevně přesvědčený o své vlastní hodnotě.
 
 „Jen počkejte, až přijde moje doba!“ říkal. „Pak uvidíte, že dokážu něco víc než kvést, plodit oříšky či dávat mléko.“
@@ -44,3 +46,5 @@ A růžový keř, blažený ve své nevinnosti, dál pilně kvetl a šnek klí
 Tak uplynulo mnoho let. Šnek se obrátil v prach a keř se obrátil v prach. Také růžička v modlitební knížce se rozpadla, ale v zahradě kvetly nové růžové keře a pod nimi vyrůstali noví šneci, zalézali do svých domků a plivali na svět, který je pramálo zajímal.
 
 Jestli chcete, můžete přečíst tenhle příběh ještě jednou od začátku – ale jiný nebude.
+
+</section>

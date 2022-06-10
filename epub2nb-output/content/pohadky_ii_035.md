@@ -3,6 +3,8 @@ title: "Petr, Petřík a\_Petříček"
 contentType: prose
 ---
 
+<section>
+
 Jeden by nevěřil, co všechno děti v naší době vědí! Je toho tolik, že si přestáváme být jisti tím, co nevědí. Že je čáp vytáhl ze studně či kašny a přinesl otci a matce jako miminko, považují za povídačku, kterou neberou vážně, ač právě takhle to je jedině správně.
 
 A o tom, jak se dostanou malí do studně nebo kašny, nemá asi ani spousta dospělých ponětí, i když někteří snad přece. Pozoroval jsi někdy pořádně nebe za hvězdné noci a povšiml si česání hvězd? Vypadá to, jako by hvězdy padaly a mizely. Ani nejvzdělanější lidé nedovedou vysvětlit, co sami neznají, ale dá se to vyložit, víme-li to.
@@ -68,3 +70,5 @@ Výzkumy tedy přivedly Petříčka k rozhodnutí, že se nikdy neožení! Doko
 A člověk pak umírá, před sebou sluneční zář tak silnou, že se mu zatmí před očima, a lidská duše, která přišla jako padající hvězda, odlétne opět jako padající hvězda, ale ne aby spočinula v květině nebo snila pod listem vodní lilie. Má vážnější cíl. Vletí do velké věčné říše, o níž nikdo dosud nedokázal nic říci. Nikdo tam nenahlédl, ani čáp, třebaže viděl sebedál a věděl sebevíc.
 
 Neví proto již nic o Petříčkovi, zato ještě mnohé o Petrovi a Petříkovi, ale o těch jsem už slyšel dost, ostatně ty rovněž. Poděkoval jsem tedy čápovi, pro tentokrát, avšak on žádá za tu malou, obyčejnou povídku tři žáby a mladého hlemýždě, neboť přijímá odměnu pouze v potravinách. Chceš zaplatit? Já nechci! Nemám ani žáby, ani mladé hlemýždě.
+
+</section>

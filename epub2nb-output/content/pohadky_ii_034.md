@@ -3,6 +3,8 @@ title: Větrný mlýn
 contentType: prose
 ---
 
+<section>
+
 Na vršku stál větrný mlýn – byl pyšný na pohled i v srdci, přesto tvrdil:
 
 „Vůbec nejsem pyšný. Jsem jen osvícený, zevně i uvnitř. Mám k dispozici sluneční i měsíční svit a rovněž světlo svíček, olejových a tukových lamp.
@@ -36,3 +38,5 @@ Mlynářova rodina, ta spousta myšlenek spojená v jednu, dostala nový krásn
 „Na vršku stojí mlýn, pyšný na pohled!“
 
 Ale tento byl lépe zařízen, více odpovídal potřebám doby, neboť vše pokračuje. Staré červotočivé a houbovité trámoví leželo v prachu a popelu, mlýnské tělo se nezvedlo, jak věřilo. Drželo se všeho doslova – a to by neměl nikdy nikdo dělat.
+
+</section>

@@ -3,6 +3,8 @@ title: Pohanka
 contentType: prose
 ---
 
+<section>
+
 Často, jdeme-li po bouřce okolo pole, na němž roste pohanka, všimneme si, že úplně zčernala, jako by byla sežehnuta. Rolník by řekl: „Do pohanky udeřil blesk!“
 
 Ale proč udeřil?
@@ -46,3 +48,5 @@ A vrba začala vypravovat o tom, jak byla pohanka pyšná a jak za to byla po
 Tak tomu totiž vždycky bývá.
 
 Vy už víte, že jsem tenhle příběh slyšel od vrabců. A kdy mi jej vyprávěli? Jednou večer, když jsem je prosil o pohádku.
+
+</section>

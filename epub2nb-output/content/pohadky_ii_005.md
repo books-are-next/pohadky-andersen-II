@@ -3,6 +3,8 @@ title: Rajská zahrada
 contentType: prose
 ---
 
+<section>
+
 Byl jeden královský syn a snad nikdo neměl tolik krásných knih jako on. O všem, co se událo na tomto světě, se tak mohl dočíst a spatřit to nádherně namalované. Každý národ a každá země v nich byly popsány, jen o tom, kde hledat rajskou zahradu, tam nestálo ani slova. A právě na to princ nejvíc myslel. Jeho babička mu vypravovala, když ještě byl docela malý a teprve se chystal do školy, že květiny v rajské zahradě chutnají jako nejsladší koláč a jejich kalíšky jsou plné nejjemnějšího vína. Také říkala, že je na jednom květu napsáno _Dějepis_, na druhém _Zeměpis_, na jiném _Počty_. Stačilo sníst ten koláč a znal jsi vše, co ses měl za úkol naučit, a čím více jsi jedl, tím více jsi z dějepisu, zeměpisu i počtů věděl.
 
 Tehdy tomu bezmezně věřil. Až když povyrostl, pochopil, že nádhera rajské zahrady spočívá ještě v něčem jiném.
@@ -240,3 +242,5 @@ Byla to statná stará žena s kosou v ruce a s velkými černými křídly.
 „Do rakve jej položíme, ale teď ještě ne. Teď si ho pouze poznamenám. Jen ať si ještě chvíli putuje po světě, aby odpykal svůj hřích, aby se mohl napravit! Ale jednou se vrátím! Až se toho nejméně naděje, strčím ho do černé rakve a poletím s ním ke hvězdám, kde také kvete rajská zahrada. Bude-li dobrý a zbožný, vstoupí do ní. Bude-li však mít myšlenky a srdce stále plné hříchů, klesne s rakví ještě hlouběji, než klesl ráj. A teprve za tisíc let si pro něj přijdu, aby se buď propadl ještě hlouběji, nebo se ocitl na jiskřící hvězdě, která tam nahoře tak krásně září.“
 
 [^1]: Stará délková míra, asi 60 centimetrů. _Pozn. red._
+
+</section>

@@ -3,6 +3,8 @@ title: Slabikář
 contentType: prose
 ---
 
+<section>
+
 Byl jeden muž, který sepsal několik veršů do slabikáře – dvě řádky ke každému písmenu, jako tomu bylo ve starších vydáních. Zdálo se mu, že je třeba přijít s něčím novějším, že původní verše jsou již otřepané, nemluvě o tom, že měl ve vlastních rýmech zalíbení.
 
 Jeho slabikář existoval zatím pouze v psané podobě, nicméně odnesl jej do velké knihovny, jež byla plná učených a zábavných knih, a postavil ho hned vedle starého tištěného. Takové sousedství však starý slabikář nehodlal strpět. Seskočil z poličky a strčil přitom do nové abecedy tak prudce, že spadla na zem, a zatímco její volné listy létaly po podlaze, otevřel se sám na první stránce.
@@ -17,208 +19,284 @@ Věděl, co písmena značí, i to, že je v nich jediná živoucí bytost, a�
 
 Nyní vám přečtu to nově napsané a přečtu to docela klidně. Ať jsme téhož názoru, že je to k ničemu!“
 
-  
+</section>
+
+<section>
 
 > A. _Abeceda_  
 > Není v světě větší věda  
 > nežli naše _abeceda_.
 
-  
+</section>
+
+<section>
 
 > B. _Blázen_  
 > _Bláznovi_ dej kdeco všude,  
 > mudrc z něho těžko bude.
 
-  
+</section>
+
+<section>
 
 „Tenhle verš shledávám náramně bídným!“ řekl kohout. „Ale budu číst dál!“
 
-  
+</section>
+
+<section>
 
 > C. _Cíl_  
 > Po moři až do Indie – Kolumbus měl jasný _cíl_,  
 > místo Indů indiány v Novém světě objevil.
 
-  
+</section>
+
+<section>
 
 > D. _Dánsko_  
 > _Dánsko_ a našeho krále  
 > Bůh ať opatruje stále.
 
-  
+</section>
+
+<section>
 
 „Tohle by asi leckdo prohlásil za krásné!“ pravil kohout. „Ale já toho neučiním! Mně se nic z toho nelíbí! – Tak dál!“
 
-  
+</section>
+
+<section>
 
 > E. _Elegance_  
 > _Eleganci_ slon se učí,  
 > když mu láska v srdci pučí.
 
-  
+</section>
+
+<section>
 
 > F. _Frak_  
 > Černý _frak_ a žlutý nos,  
 > to má každý správný kos.
 
-  
+</section>
+
+<section>
 
 > G. _Groš_  
 > Sedlák veze na trh koše,  
 > aby domů přines’ _groše_.
 
-  
+</section>
+
+<section>
 
 > H. _Hurá_  
 > Hlučné „_hurá_“ světem znívá,  
 > špatné konce často mívá.
 
-  
+</section>
+
+<section>
 
 „Jak má tomuhle dítě rozumět?“ projevil znovu nesouhlas kohout. „Na obálce sice stojí: Slabikář pro malé i velké – ale velcí mají jiné věci na starosti, než aby četli takové veršíky, a malí je nemohou chápat! To už věru přesahuje všechny meze! Leč dál!“
 
-  
+</section>
+
+<section>
 
 > CH. _Chůva_  
 > Ve svátečním _chůva_ chodí,  
 > cizí děti pyšně vodí.
 
-  
+</section>
+
+<section>
 
 > I. _Inteligent_  
 > _Inteligent_ chceš-li být,  
 > moudrou hlavu musíš mít.
 
-  
+</section>
+
+<section>
 
 > J. _Jitřenka_  
 > _Jitřenka_ vstává, den se rodí,  
 > tak ať už kohout sebou hodí!
 
-  
+</section>
+
+<section>
 
 „Teď si na mne ještě dovoluje!“ řekl kohout. „Ale já se řídím podle slunce, jedině to uznávám! Tak dále!“
 
-  
+</section>
+
+<section>
 
 > K. _Kráva_  
 > Milé dítě, praví _kráva_,  
 > tele též se _krávou_ stává.
 
-  
+</section>
+
+<section>
 
 „Co je dětem do tlachů o rodinných poměrech?“
 
-  
+</section>
+
+<section>
 
 > L. _Lev_ a _lorňon_  
 > V poušti zříš _lva_ bez _lorňonu_,  
 > nechybí však _lvům_ salonů.
 
-  
+</section>
+
+<section>
 
 > M. _Mušle_  
 > Dokud _mušli_ perleť chrání,  
 > nesnědí ji dámy, páni.
 
-  
+</section>
+
+<section>
 
 > N. _Nekonečno_  
 > _Nekonečno_ je naše máti,  
 > každý se do něj zpátky vrátí.
 
-  
+</section>
+
+<section>
 
 > O. _Olivový list_  
 > Nejhezčí prapor – buď si jist,  
 > zdobí vždy _olivový_ list.
 
-  
+</section>
+
+<section>
 
 „Tohle je asi hodně hluboké!“ řekl kohout. „Ale já se tomu nemohu za žádnou cenu dostat na dno!“
 
-  
+</section>
+
+<section>
 
 > P. _Prase_  
 > Že máte hodně _prasat_ v lese?  
 > To jenom hlupák hrdě nese!
 
-  
+</section>
+
+<section>
 
 „No, tohle je hrubé!“ poznamenal kohout.
 
-  
+</section>
+
+<section>
 
 > Q. _Quido_  
 > _Quido_ je černý, Pavel bílý,  
 > to asi _Quida_ málo myli.
 
-  
+</section>
+
+<section>
 
 > R. _Rejsek_  
 > S mývalem přátelí se _rejsek_,  
 > první dbá na čistotu, druhý je trochu hejsek.
 
-  
+</section>
+
+<section>
 
 > S. _Samovar_  
 > Důvěrných, klidných chvilek pár  
 > zpříjemní v domě _samovar_.
 
-  
+</section>
+
+<section>
 
 „Nyní bych tak trochu zakokrhal, jestli dovolíte!“ přerušil sám sebe kohout. „Takové dlouhé čtení vysiluje! Musím nabrat dech!“
 
 A zakokrhal tak mocně, že to znělo jako polnice, a naslouchat tomu působilo opravdu velkou rozkoš – tedy kohoutovi. „Ale dále!“
 
-  
+</section>
+
+<section>
 
 > T. _Tma_  
 > Když svět noci náleží,  
 > je v něm _tma_ jak ve věži.
 
-  
+</section>
+
+<section>
 
 > U. _Uznání_  
 > _Uznání_ s sebou závist nese,  
 > že se to změní, netěšte se.
 
-  
+</section>
+
+<section>
 
 > V. _Vůl_  
 > Pánem jsem, když _voly_ mám,  
 > hůř tomu, kdo je _volem_ sám.
 
-  
+</section>
+
+<section>
 
 > X. _Xantipa_  
 > _Xantipu_ vzít si, to je běs,  
 > vzkázal nám moudrý Sokrates.
 
-  
+</section>
+
+<section>
 
 „Tady nedovedl nalézt něco nového! Nezbylo mu než vzít na milost Xantipu! Podle mého by ale Xanthus bylo lepší!“
 
-  
+</section>
+
+<section>
 
 > Y. _Yggdrasil_  
 > Posvátný strom bohů i světa  
 > uvadl náhle – po bozích veta.
 
-  
+</section>
+
+<section>
 
 „No, již budeme brzy hotovi!“ řekl kohout. „Aspoň nějaká útěcha. Pokračujme!“
 
-  
+</section>
+
+<section>
 
 > Z. _Zefír_  
 > _Zefír_ je vítr, co od západu vane,  
 > lehounce, teple hladí naše skráně.
 
-  
+</section>
+
+<section>
 
 „Tak, tady to končí! Ale tím ještě není všecko odbyto! Nyní to bude vytištěno! A bude se to číst! Bude to náhradou za ctihodné staré verše v mojí knize! Co tomu říká vážené shromáždění, učené i neučené, jednotlivé knihy i sebrané spisy? Já jsem domluvil – nyní se mohou vyslovit další!“
 
 Ale knihy i knihovna stály beze slova, a tak kohout sletěl zase dolů, do svého velkého A.
 
 „Mluvil jsem dobře, kokrhal jsem dobře!“ hrdě se kolem sebe rozhlížel. „Nic takového nový slabikář nedokáže. Na to zajde! Vlastně už je mrtvý, vždyť nemá žádného kohouta!“
+
+</section>

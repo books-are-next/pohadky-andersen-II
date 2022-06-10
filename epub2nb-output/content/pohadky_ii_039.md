@@ -3,6 +3,8 @@ title: Nejneuvěřitelnější věc
 contentType: prose
 ---
 
+<section>
+
 Kdo vykoná nejneuvěřitelnější věc, dostane královu dceru a půl království.
 
 Mladí, ale i staří, jak to uslyšeli, napínali svoje myšlenky a svaly. Dva se ujedli k smrti a jeden se upil. Všichni tři byli přesvědčeni, že dělají tu nejneuvěřitelnější věc, ale takhle to probíhat nemělo. Malí uličníci zase pokládali za nejneuvěřitelnější plivnout si na záda a honem to pilně cvičili, neboť v určitý den se mělo ukázat, co si kdo připravil, a soudcovská lavice byla pestrá.
@@ -35,13 +37,17 @@ Jako další vhopkovala skupinka malých chlapců a dívek a hráli hru, při 
 
 A hodiny bily jedenáct. Nakonec odbily dvanáct a ponocný v plášti a s píkou[^21] zazpíval dávnou píseň všech ponocných:
 
-  
+</section>
+
+<section>
 
 > „O půlnoční hodině  
 > narodil se Spasitel náš  
 > svaté rodině.“
 
-  
+</section>
+
+<section>
 
 A zatímco zpíval, vyrůstaly kolem něj růže a měnily se v hlavy andělů vznášejících se na křídlech duhových barev.
 
@@ -84,3 +90,5 @@ A protože byl také v kostele, všechen lid ho k oltáři doprovázel, všic
 [^20]: Pohřební zřízenec. _Pozn. red._
 
 [^21]: Bodná zbraň. _Pozn. red._
+
+</section>

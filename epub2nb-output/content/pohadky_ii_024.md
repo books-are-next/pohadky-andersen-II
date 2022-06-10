@@ -3,6 +3,8 @@ title: Hlásný Ole
 contentType: prose
 ---
 
+<section>
+
 „Ve světě to chodí nahoru – dolů a dolů – nahoru! Teď už se ale výš nedostanu!“ pravil hlásný[^10] Ole. „Nahoru – dolů, dolů – nahoru musí většina lidí. Vlastně se nakonec stáváme všichni hlásnými a díváme se na život a věci shůry.“
 
 Tak hovořil Ole na věži, můj přítel, starý hlásný, zábavný a hovorný chlapík, který vypadal, že zlehčí všechno, a přece skrýval tolik vážného na dně srdce. Pocházel z dobrých vrstev, říkalo se o něm, že je synem konferenčního rady, nebo jím aspoň mohl být. Studoval, byl výpomocným učitelem, nakonec i výpomocným knězem! Bydlel u faráře a měl rád okolo sebe všechno v pořádku.
@@ -74,3 +76,5 @@ Tím skončila moje druhá návštěva u Oleho. Chcete-li slyšet ještě o ji
 [^10]: Hlídač na městské věži nebo také hradní či zámecký strážce. _Pozn. red._
 
 [^11]: Ludvik Holberg (1684–1754), norsko-dánský dramatik, prozaik a filozof. _Pozn. red._
+
+</section>

@@ -3,6 +3,8 @@ title: "Jakoubek a\_Kristýnka"
 contentType: prose
 ---
 
+<section>
+
 Nedaleko řeky Gudenaa, v silkeborském lese, se zvedá výšina zvaná Aasen. A pod ní, směrem k západu, stálo, ba stojí ještě selské stavení obklopené políčky, na kterých písek prosvítá tenkou vrstvou ornice oseté pšenicí a žitem.
 
 Je tomu ale už hodně let, co se tu odehrál tento příběh.
@@ -137,7 +139,9 @@ Když skončil, neřekl Jakoubek jediné slovo, jenom zbledl jako stěna. Nakone
 
 I psal tedy Jakoubek, ale nedovedl psaní sestavit tak, jak si přál. Přeškrtal všechno a roztrhal papír – ale ráno byl dopis Kristýnce přece hotov.
 
-  
+</section>
+
+<section>
 
 _Četl jsem, co jsi napsala svému otci. Vidím, že se ti v každém ohledu dobře daří a že se ti v budoucnosti může dařit ještě lépe. Zeptej se svého srdce, Kristýnko! A pečlivě zvaž, co tě očekává, staneš-li se mou ženou. Nemysli na mne a co je se mnou, ale mysli na své vlastní blaho! Ke mně nejsi připoutána sliby, a slíbila-li jsi mi něco ve svém srdci, tedy ti slib vracím. Radosti celého světa nechť tě provázejí, Kristýnko! Pánbůh snad má útěchu i pro moje srdce._
 
@@ -197,7 +201,9 @@ Jakoubek rozžehl další sirku, nalezl kus svíčky a osvětlil ubohou komoru.
 
 Umírající se naň dívala, oči se jí šířily a šířily – ale poznala jej? Nedozvěděl se to, neuslyšel od ní ani slova.
 
-  
+</section>
+
+<section>
 
 Jsme opět v lese u Gudenaa. Vzduch je šedý, vřes odkvetl, západní větry ženou žluté listí z lesa do potoka a přes lada[^9] k chalupě, v níž nyní bydlí cizí lidé. Leč pod kopcem stojí – ochráněn vysokými stromy – tichý bílý a čistý dům a ve světnici hoří v kachlových kamnech rašelina. Oknem se dovnitř dere sluneční svit a září tu i dvojice dětských očí. Jako jarní skřivánčí zpěv zní žvatlání růžových usmívajících se úst – je tu život, je tu veselí, je tu malá Kristýnka. Sedí na klíně muži, jenž se jí stal otcem i matkou, nahradil jí rodiče, kteří odešli, jako sen odchází dítěti i dospělým.
 
@@ -206,3 +212,5 @@ Ano, Jakub si postavil čistý a úpravný domov, byl zámožný. Matka děvč�
 Jakub měl peníze v truhle, jak ostatní říkali, zlato ze země, ale měl ještě něco cennějšího než zlato – malou Kristýnku.
 
 [^9]: Nevyužívaný pozemek, pláň. _Pozn. red._
+
+</section>
