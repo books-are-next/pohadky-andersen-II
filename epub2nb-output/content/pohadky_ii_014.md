@@ -3,8 +3,6 @@ title: Nejkrásnější růže na světě
 contentType: prose
 ---
 
-  
-
 Byla jedna mocná královna a ta měla ve své zahradě nejkrásnější květiny ze všech zemí světa. Především však milovala růže. Vlastnila nerozmanitější druhy – divoké plané růže se zelenými lístky jablkové vůně i nejpůvabnější provensálské růže vyrůstaly při zámeckých zdech, vinuly se kolem sloupů, protahovaly se okenními římsami do chodeb a plazily se po stropech sálů. To bylo přepestrých vůní, barev i tvarů!
 
 Přesto smutek a bol dlely uvnitř komnat. Královna ležela na loži těžce nemocná a lékaři prohlásili, že její dny jsou sečteny.

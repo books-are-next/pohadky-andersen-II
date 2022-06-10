@@ -3,8 +3,6 @@ title: "Husopaska Markétka a\_její rodina"
 contentType: prose
 ---
 
-  
-
 Husopaska Markétka byla jediným člověkem, který bydlel v novém nádherném domě pro husy a kachny, jenž byl postaven uprostřed panského dvora, na místě starého rytířského hradu s věží, lomenicí, pevnostními valy a padacím mostem. Hned vedle se rozprostírala houština stromů a křovin, původně rozlehlá zahrada, která se táhla až k velikému jezeru, z něhož zbyl už jen močál.
 
 Vrány, krkavci a kavky poletovali s křikem a krákoráním po starých stromech a hemžila se jich tu stále větší hejna. Neubývalo jich, ani když je odstřelovali, spíše naopak. A bylo je slyšet až do husince, kde seděla husopaska Markétka. Kachňátka se batolila kolem jejích dřeváků a ona znala každou slepici, každou kachnu i husu od chvíle, kdy se vyklubaly z vejce.

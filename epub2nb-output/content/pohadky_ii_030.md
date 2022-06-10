@@ -3,8 +3,6 @@ title: Motýl
 contentType: prose
 ---
 
-  
-
 Motýl si chtěl opatřit snoubenku a samozřejmě toužil po nějaké pěkné květince. Začal se tedy kolem sebe rozhlížet a viděl, že každá květina sedí tak tiše a zadumaně na svém stonku, jak má sedět panna, jež není zasnoubena. Ale bylo jich, kam oči dohlédly, tolik, že motýl nevěděl, pro kterou se rozhodnout. I rozletěl se k chudobce. Francouzi ji nazývají Markétka, tvrdí, že umí prorokovat, a to ona opravdu dělá, když z ní milenci utrhávají lístek po lístku a ptají se, zda je jejich miláček má, nebo nemá rád. Každý se tak ptá, a motýl se přišel také zeptat. Neotrhával okvětní lístky, naopak každý zvlášť políbil v domnění, že po dobrém nejdál dojdeš.
 
 „Sladká chudobko Markétko!“ pravil. „Jste nejchytřejší ze všech květinových žen. Umíte předpovídat! Povězte mi, dostanu tu, nebo onu? Či spíše – kterou dostanu? Když to budu vědět, mohu letět přímo k ní a ucházet se o ni!“

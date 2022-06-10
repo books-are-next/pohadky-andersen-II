@@ -3,8 +3,6 @@ title: "Šnek a\_růžový keř"
 contentType: prose
 ---
 
-  
-
 Kolem zahrady byl plot ze vzrostlých lísek a za ním se rozkládala pole a louky s kravami a ovcemi. Uprostřed zahrady stál kvetoucí růžový keř a pod ním seděl šnek, skálopevně přesvědčený o své vlastní hodnotě.
 
 „Jen počkejte, až přijde moje doba!“ říkal. „Pak uvidíte, že dokážu něco víc než kvést, plodit oříšky či dávat mléko.“

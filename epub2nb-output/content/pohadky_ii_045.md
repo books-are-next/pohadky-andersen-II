@@ -3,8 +3,6 @@ title: "O\_tetce Zubybol"
 contentType: prose
 ---
 
-  
-
 Odkud máte tuhle povídku?
 
 Chceš to vědět? Mám ji z koše, do něhož se házejí staré papíry.
@@ -23,8 +21,6 @@ O TETCE ZVANÉ „BOLEST ZUBŮ“
 
 ## I
 
-  
-
 Mám tetičku, která mi celé dětství přinášela spoustu cukroví. Moje zuby to vydržely a nezkazily se. Nyní jsem již téměř dospělý, dokonce student, ona mne však dál zahrnuje sladkostmi a tvrdí, že ze mne bude básník.
 
 Nu, možná je ve mně kus básníka, ale ne velký. Projevuje se jen tím, že si někdy v ulicích města připadám, jako bych bloudil velikánskou knihovnou. Domy jsou police, každé poschodí je přihrádka s knihami. Zde stojí všední příběh, tam dobrá stará veselohra, vědecká díla všech možných oborů, špatná literatura i dobrá četba.
@@ -40,8 +36,6 @@ Ukázal jsem jí zelený lístek s červem, svěřil jsem se jí s myšlenkami
 „Ty jsi opravdu básník!“ pravila nadšeně. „Snad vůbec největší, jakého máme. Kéž se dožiji toho, aby to uznali i jiní. Pak se ochotně a ráda odeberu do hrobu! Ano, již od pohřbu sládka Rasmussena jsi mne uváděl v úžas svojí velikou fantazií!“ To řekla teta Emilie a políbila mne. A kdo byla teta Emilie a kdo byl sládek Rasmussen?
 
 ## II
-
-  
 
 Byla to ve skutečnosti teta mojí matky. Ale my děti jsme v ní viděly svoji tetu a neměly jsme pro ni jiného jména.
 
@@ -81,8 +75,6 @@ A já každičkou noc po takovém rozhovoru strávil s očima otevřenýma, pl
 
 ## III
 
-  
-
 Přestěhoval jsem se a po měsíci v novém bytě jsem o tom mluvil s tetičkou:
 
 „Bydlím u velmi tiché rodiny, která si ani mých pozdních příchodů nijak nevšímá. Asi proto, že i jinak to v domě neustále hřmotí – venkovní hluk se mísí s rámusem větru a vichru či lidí. Mám pokoj přímo nad domovními vraty, a tak každý vůz, který vyjíždí nebo vjíždí, otřásá stěnami, že se až obrazy pohybují. Všechny dveře bouchají a řinčí, jako nějaké zemětřesení. Ležím-li v posteli, probíhají mi ty rány všemi údy, ale to prý posiluje nervy. Fučí-li vítr, a ten u nás fičí neustále, rozhoupají se dlouhé venkovní okenní háky a tlučou do zdi. Také zvonek nad sousedovými dveřmi řinčí při každém závanu větru.
@@ -98,8 +90,6 @@ V téže době se okolo s křikem řítí mládež spěchající do školy. Ot
 „Ty jsi básník! Jenom napiš, co jsi řekl, a vyrovnáš se Dickensovi. Nyní mě zajímáš ještě víc! Ty maluješ, když hovoříš! Když popisuješ svůj dům, jako bych jej viděla, až mráz člověka přechází! Ano, básni dál! Jenom do toho vlož ještě něco živoucího, lidi, půvabné lidi, nejraději nešťastné!“ Měla pravdu, popsal jsem pravdivě dům, jak se mi jevil, s jeho hlukem a hřmotem, ale jenom tak, bez děje. Ten přišel později!
 
 ## IV
-
-  
 
 Bylo to v zimě, večer po divadle. Snesl se strašlivý nečas, sněhová vánice, takže jsi sotva mohl kráčet kupředu.
 

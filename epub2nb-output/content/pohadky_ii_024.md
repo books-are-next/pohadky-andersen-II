@@ -3,8 +3,6 @@ title: Hlásný Ole
 contentType: prose
 ---
 
-  
-
 „Ve světě to chodí nahoru – dolů a dolů – nahoru! Teď už se ale výš nedostanu!“ pravil hlásný[^10] Ole. „Nahoru – dolů, dolů – nahoru musí většina lidí. Vlastně se nakonec stáváme všichni hlásnými a díváme se na život a věci shůry.“
 
 Tak hovořil Ole na věži, můj přítel, starý hlásný, zábavný a hovorný chlapík, který vypadal, že zlehčí všechno, a přece skrýval tolik vážného na dně srdce. Pocházel z dobrých vrstev, říkalo se o něm, že je synem konferenčního rady, nebo jím aspoň mohl být. Studoval, byl výpomocným učitelem, nakonec i výpomocným knězem! Bydlel u faráře a měl rád okolo sebe všechno v pořádku.
@@ -14,8 +12,6 @@ Tehdy byl ještě mladý a akurátní, jak se říká. Chtěl mít boty vylešt
 Půjčoval jsem mu občas četbu, a byla to samá dobrá literární díla. Neměl rád anglické mravoučné romány, jak říkal, natož ty francouzské, svařené z větru a hrozinkových stonků. Ne, o opravdovém životě chtěl číst, knihy o divech přírody. Navštěvoval jsem jej aspoň jednou za rok, obyčejně hned po Novém roce, a měl tak z první ruky, co poutalo jeho myšlenky na rozhraní starého a nového. Povím vám o dvou návštěvách a zkusím to podat jeho slovy. Snad se mi to zdaří.
 
 ## První návštěva
-
-  
 
 Mezi knihami, které jsem naposledy půjčil Olemu, byla kniha o oblázcích a ta jej nejvíce zaujala a upoutala.
 
@@ -52,8 +48,6 @@ A mně, vidím-li létavici, zvláště o novoroční noci, je opravdovým pot
 Je to veliká radostná myšlenka vědět, že může spadnout létavice na náš hrob. Nespadne na můj, mně nepřinese dík, není mi zač děkovat, neboť se nedostanu k leštidlu. Mým losem na světě je dostávat mazadlo,“ zakončil Ole.
 
 ## Druhá návštěva
-
-  
 
 Byl Nový rok, když jsem znovu vystoupal na věž. A tentokrát Ole mluvil o pohárech, které se vyprazdňují na přechodu ze staré do nové kapky, jak rok nazýval. Potom jsem vyslechl jeho příběh o sklenicích a byla v nich tato myšlenka:
 

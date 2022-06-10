@@ -3,8 +3,6 @@ title: Límec
 contentType: prose
 ---
 
-  
-
 Byl jednou kavalír, jehož jediným domácím nářadím byl zouvák a hřeben, ale zato měl nejkrásnější límec na světě. A o tom límci vám něco povím…
 
 Byl již v těch letech, že mohl myslet na ženitbu, a tu se stalo, že se dostal do prádla s podvazkem.

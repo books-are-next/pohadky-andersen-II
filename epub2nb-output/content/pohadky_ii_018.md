@@ -3,8 +3,6 @@ title: Pod vrbou
 contentType: prose
 ---
 
-  
-
 Okolí Kjöge je velmi holé. Město sice leží u moře, jež mu dodává na půvabu, ale krajina mohla být pěknější. Kolem dokola vidíš jen pole a je odtud daleko do lesa. Avšak kdekoli zdomácníš, najdeš něco krásného, po čem budeš toužit i na nejúchvatnějším místě na světě.
 
 To platilo rovněž pro odlehlé předměstí Kjöge. Několik malých chudobných domků se zahrádkami se tu svažovalo dolů k potůčku, který vtékal do moře, a v létě tu mohlo být docela hezky. Dvě děti ze sousedství, Knud a Hanička, které k sobě nacházely cestu pod ostružinovými keři, si tím byly dokonce jisté.
@@ -155,8 +153,12 @@ Tady nerostly žádné bezy, dokonce ani žádné květináče nebyly v oknech 
 
 Stalo se tedy jenom to, že se přestěhoval od bezové matičky k vrbovému tatíčkovi. A ten strom způsoboval, že se po večerech cítil:
 
+  
+
 > „… tak Dánem v svém citu  
 > v bílém měsíčním svitu!“
+
+  
 
 A nezapříčiňovalo to ani náhodou měsíční světlo, nýbrž jen a jen ona stará vrba, a opět neměl stání. Proč? Zeptej se vrby, zeptej se kvetoucího bezu!
 

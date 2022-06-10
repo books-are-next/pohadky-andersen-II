@@ -3,8 +3,6 @@ title: "Petr, Petřík a\_Petříček"
 contentType: prose
 ---
 
-  
-
 Jeden by nevěřil, co všechno děti v naší době vědí! Je toho tolik, že si přestáváme být jisti tím, co nevědí. Že je čáp vytáhl ze studně či kašny a přinesl otci a matce jako miminko, považují za povídačku, kterou neberou vážně, ač právě takhle to je jedině správně.
 
 A o tom, jak se dostanou malí do studně nebo kašny, nemá asi ani spousta dospělých ponětí, i když někteří snad přece. Pozoroval jsi někdy pořádně nebe za hvězdné noci a povšiml si česání hvězd? Vypadá to, jako by hvězdy padaly a mizely. Ani nejvzdělanější lidé nedovedou vysvětlit, co sami neznají, ale dá se to vyložit, víme-li to.

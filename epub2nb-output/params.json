@@ -21,8 +21,8 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
-      "brAfter": "",
+      "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
+      "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP-verse--12-0 MLP-verse--12-12 MLP-verse--I---12-12 ",
       "figure": "MLP-obrazky",
       "em": "MLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-dopis--I \nMLP-dopis-podpis--I \nMLP-titulka-prekladatel ",
@@ -1033,6 +1033,6 @@
       "user": "books-are-next",
       "repo": "pohadky-andersen-II"
     },
-    "generatedAt": 1652351459986
+    "generatedAt": 1654870450811
   }
 }

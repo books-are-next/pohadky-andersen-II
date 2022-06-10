@@ -3,8 +3,6 @@ title: Rajská zahrada
 contentType: prose
 ---
 
-  
-
 Byl jeden královský syn a snad nikdo neměl tolik krásných knih jako on. O všem, co se událo na tomto světě, se tak mohl dočíst a spatřit to nádherně namalované. Každý národ a každá země v nich byly popsány, jen o tom, kde hledat rajskou zahradu, tam nestálo ani slova. A právě na to princ nejvíc myslel. Jeho babička mu vypravovala, když ještě byl docela malý a teprve se chystal do školy, že květiny v rajské zahradě chutnají jako nejsladší koláč a jejich kalíšky jsou plné nejjemnějšího vína. Také říkala, že je na jednom květu napsáno _Dějepis_, na druhém _Zeměpis_, na jiném _Počty_. Stačilo sníst ten koláč a znal jsi vše, co ses měl za úkol naučit, a čím více jsi jedl, tím více jsi z dějepisu, zeměpisu i počtů věděl.
 
 Tehdy tomu bezmezně věřil. Až když povyrostl, pochopil, že nádhera rajské zahrady spočívá ještě v něčem jiném.

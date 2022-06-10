@@ -6,11 +6,10 @@ title: Tiráž
 Pohádky II**  
 Edice Literatura pro děti a mládež  
 Překlad Gustav Pallas  
-Ilustrace na obálce EhayDy/Shutterstock.com  
 Redakce Markéta Teuchnerová  
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
-1. vydání z 12. 5. 2022.
+1. vydání z 10. 6. 2022.
 
 ***
 
@@ -23,8 +22,6 @@ Text díla (Hans Christian Andersen: Pohádky II), publikovaného [Městskou kn
 [![image001.jpg](./resources/image001_fmt.jpeg)](https://creativecommons.org/licenses/by-nc-sa/3.0/cz/)
 
 Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci [Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko](https://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
-
-  
 
 
   

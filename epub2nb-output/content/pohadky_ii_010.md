@@ -3,8 +3,6 @@ title: Děvčátko se sirkami
 contentType: prose
 ---
 
-  
-
 Byla strašlivá zima. Sněžilo a nastával tmavý večer, poslední v roce, večer silvestrovský.
 
 A v té zimě a temnotě šlo městem malé chudobné děvčátko, prostovlasé a bosé.

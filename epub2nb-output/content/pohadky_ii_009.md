@@ -3,8 +3,6 @@ title: Návrší skřítků
 contentType: prose
 ---
 
-  
-
 Po rozpukané kůře starého stromu pobíhalo několik mrštných ještěrek. Rozuměly si dobře, neboť hovořily ještěrčí řečí.
 
 „No ne, to je ale hluku a spěchu na starém dobrém návrší skřítků!“ řekla jedna z nich. „Pro samý rámus jsem celé dvě noci skoro oka nezamhouřila. Stejně mi bývá, jenom když mě bolí zuby – to také nespím!“

@@ -3,8 +3,6 @@ title: Zvonivá tůň
 contentType: prose
 ---
 
-  
-
 „Bim – bam! Bim – bam!“ je slyšet ze „zvonivé“ tůně v řece Odense. Jaká je to řeka?
 
 Zná ji každé dítě ve městě stejného jména. Teče pod zahradami, od splavu k mlýnu, pod dřevěnými mosty. Rostou u ní zářivě žluté blatouchy i vysoký hnědě zbarvený rákos a na slatinném břehu nedaleko bělidla hledí přes vodu staré, sehnuté a všelijak pokroucené vrby s rozprýskanou kůrou.

@@ -3,8 +3,6 @@ title: Zelenáčci
 contentType: prose
 ---
 
-  
-
 V okně stál růžový keř. Ještě nedávno byl mladistvě svěží, ale nyní vypadal churavě.
 
 Usadil se v něm totiž kdosi, kdo jej ujídal, ač jinak působil velice slušně ve svém zeleném stejnokroji.

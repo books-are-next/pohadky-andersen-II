@@ -3,8 +3,6 @@ title: Povídka slunečního paprsku
 contentType: prose
 ---
 
-  
-
 „Teď budu vyprávět!“ řekl vítr. „Nikoli,“ odvětila plískanice, „jestli dovolíte, na řadě jsem já! Stál jste dost dlouho na rohu ulice a vytroubil všechno, co jste vytroubit mohl!“
 
 „To mám za to, že jsem obrátil a polámal spoustu deštníků, když s vámi lidé nechtěli nic mít?“ štětil se vítr.

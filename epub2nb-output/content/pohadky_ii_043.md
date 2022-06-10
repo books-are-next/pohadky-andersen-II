@@ -3,8 +3,6 @@ title: Velký mořský had
 contentType: prose
 ---
 
-  
-
 Byla jedna mořská rybka z dobré rodiny. Její jméno si nepamatuji, to ti povědí učenci. Vím jen, že měla osmnáct set stejně starých sourozenců a žádný z nich neznal ani otce, ani matku. Rybky se od narození o sebe musely starat samy, plout sem a tam, ale to bylo docela příjemné. Vody k pití měly dost a dost, celé světové moře, a také potrava přicházela jaksi samozřejmě.
 
 Každá z rybek se ale chtěla vydat dál, aby prožila vlastní příběh, i když zatím na to nemyslely. Slunce svítilo do vody, takže byla velmi jasná a průzračná, avšak rovněž plná nejpodivnějších tvorů. Někteří z nich byli tak velcí a měli tak obrovské tlamy, že mohli spolknout všech osmnáct set sourozenců najednou. Ani to si ale naše rybky nijak nepřipouštěly, neboť ještě nebyly spolknuty.

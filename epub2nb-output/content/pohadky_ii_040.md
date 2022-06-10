@@ -3,8 +3,6 @@ title: "Štěstí může ležet v\_dřívku"
 contentType: prose
 ---
 
-  
-
 Rozhodl jsem se, že vám budu vyprávět povídku o štěstí.
 
 Štěstí známe všichni. Někoho provází krok za krokem, jiného jenom v určitých letech či v jednotlivých dnech, dokonce jsou lidé, kteří je spatří pouze jedinkrát v životě, ale spatříme je všichni.
