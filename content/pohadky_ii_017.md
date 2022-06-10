@@ -3,8 +3,6 @@ title: Za tisíc let
 contentType: prose
 ---
 
-  
-
 Ano, za tisíc let přeletí mladí obyvatelé Ameriky na křídlech páry světové moře a navštíví starou Evropu! Vydají se za jejími pomníky a památnými místy, jako my se vydáváme za rozpadávajícími se krásami Asie. Za tisíc let přijdou!
 
 Vody Temže, Dunaje a Rýna dlí ještě ve svých korytech, Montblank se stále pyšní svým sněžným vrcholem, severní záře dosud osvětluje chladné kraje, ale generace za generací se mění v prach. Doboví vládci jsou zapomenuti stejně jako ti, kteří sní svůj poslední sen pod travnatým pahorkem, na němž si bohatý mlynář nechal postavit lavičku, aby se kochal pohledem na lány vlnícího se obilí.

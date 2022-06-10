@@ -3,8 +3,6 @@ title: Psyche
 contentType: prose
 ---
 
-  
-
 Za svítání září v růžovém vzduchu velká hvězda, nejjasnější hvězda na obloze – jitřenka. Její mihotavé světlo se chvěje na bílé klenbě, jako by chtěla napsat všechno, co umí vyprávět, co za tisíciletí spatřila tu i onde na našem otáčejícím se světě.
 
 A tak poslyšte jednu z jejích povídek!

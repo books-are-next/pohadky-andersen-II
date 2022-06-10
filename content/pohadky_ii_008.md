@@ -3,8 +3,6 @@ title: "Obrázek z\_hradeb"
 contentType: prose
 ---
 
-  
-
 Je podzim. Stojíme na zámeckých hradbách a rozhlížíme se po moři. Pozorujeme množství lodí a díváme se na švédský břeh, který se zvedá vysoko v záři večerního slunce.
 
 Za námi spadají hradby kolmo dolů. Jsou porostlé nádhernými stromy, jejichž žloutnoucí listí pomalu opouští větvoví a snáší se k chmurným budovám obklopeným kulatou dřevěnou ohradou. Uvnitř chodí stráž a je tam těsno a temno, ale ještě temněji je za zamřížovaným oknem, kde si odpykávají svůj trest nejhorší zločinci.

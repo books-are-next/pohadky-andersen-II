@@ -3,8 +3,6 @@ title: Dvě panny
 contentType: prose
 ---
 
-  
-
 Viděls již někdy panenku? Myslím to, co dlaždiči nazývají panenkou, nástroj, jímž se zatlouká dlažba. Je celá ze dřeva, dole široká a opatřená železným kruhem, nahoře užší, s dřevem napříč, to jsou její ruce.
 
 Na dvoře, který byl spíš skladištěm než dvorem, byly dvě takové panenky. Stály mezi lopatami, sáhovkami[^8] i kolečky a šla o nich řeč, že se už nemají jmenovat jako dřív – že jediný správný název, který má dlaždičská mluva pro to, co jsme za starých časů nazývali panenkou, je „razítko“.

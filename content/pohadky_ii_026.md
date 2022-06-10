@@ -3,8 +3,6 @@ title: Dcera krále močálů
 contentType: prose
 ---
 
-  
-
 Čápi vypravují svým mladým mnoho pohádek a všechny se tak či onak týkají močálu a bažin. Samozřejmě jsou přizpůsobeny věku čápat a jejich chápavosti. Nejmenším stačí pro radost, když se jim řekne: „Čáry máry, tralala!“ Avšak starší již chtějí něco hlubšího, nebo aspoň nějakou rodinnou historii.
 
 Z obou nejstarších a nejdelších pohádek, jež si generace čápů předávají, známe všichni tu o Mojžíšovi. Jak byl položen svojí matkou na vody Nilu, nalezen královskou dcerou a dobře vychován se stal velkým mužem, o němž se však neví, kde byl pohřben.
@@ -121,7 +119,11 @@ Srdce vikingské paní bylo naplněno úzkostí a smutkem nad tím vším. A p
 
 S tím vzlétli a v téže chvíli zazněla trubka. Pán domu přistál s veškerým svým mužstvem. Vraceli se s bohatou kořistí od galských břehů, kde lidé, právě tak jako v Británii, zpívali v úděsu:
 
+  
+
 > „Osvoboď nás od divých Normanů!“
+
+  
 
 Vikingský dvorec u divokého močálu znovu oživl veselím a ruchem! Do světnice přinesli nádobu s medovinou, byla zapálena vysoká hranice i koně poraženi – slavnost měla být velkolepá. Obětník požehnal sluhy teplou koňskou krví, oheň praskal, kouř stoupal ke stropu, saze se usazovaly na trámech a padaly zpět. Ale na to tady byli odjakživa zvyklí.
 
@@ -129,9 +131,13 @@ Rovněž bylo pozváno přemnoho hostů a dostalo se jim pěkných darů, byly 
 
 Na konci každého verše zazněl refrén:
 
+  
+
 > „Bohatství pomine, přátelé zhynou,  
 > také ty jednou zemřeš jistě.  
 > Ale nikdy nezhyne slavné jméno!“
+
+  
 
 Při těchto slovech tloukli všichni na štíty a nožem nebo kostí do desky stolu, aby to bylo hodně slyšet.
 

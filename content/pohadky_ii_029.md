@@ -3,8 +3,6 @@ title: Krásná!
 contentType: prose
 ---
 
-  
-
 Sochař Alfréd, znáš ho nejspíš… Známe jej všichni. Dostal zlatou medaili, odcestoval do Itálie a pak se opět vrátil do Dánska. Tehdy byl mladý, vlastně je dosud mladý, ale přece asi o deset let starší nežli tenkrát.
 
 Po příjezdu domů navštívil jedno malé město na Själlandu. Všichni jeho obyvatelé věděli o příchodu cizince, věděli, kdo to je. Na jeho počest se u jedné z nejbohatších rodin sešla společnost a každý, kdo něco znamenal nebo měl, byl pozván. Stalo se to událostí, o níž celé město vědělo, aniž byla vybubnována.

@@ -3,8 +3,6 @@ title: Na konci moře
 contentType: prose
 ---
 
-  
-
 Dvě velké lodi byly vyslány k severní točně, aby nalezly v moři hranice zemí a vyzkoušely, jak daleko se lidé mohou dostat. Již rok a den pluly mezi mlhami a krami a jejich osádka zažila mnoho velikých strastí. Pak přišla zima. Slunce zůstávalo dole a předlouhou řadu neděl měla trvat noc. Vše kolem byl jediný kus ledu a v jeho sevření uvízly i lodi. Sníh ležel vysoko, převysoko, a ze sněhu tu také byly zhotovovány domy v podobě úlů. Některé si velikostí nezadaly s našimi kopci, jiné sotva pojaly tři nebo čtyři muže.
 
 Ale tma tam nebyla, severní zář bez ustání svítila červeně a modře – byl to velkolepý ohňostroj. Rovněž sníh svítil, a tak zdejší noc byla jediným dlouhým zářivým soumrakem.

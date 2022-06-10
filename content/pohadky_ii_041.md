@@ -3,8 +3,6 @@ title: "Dny v\_týdnu"
 contentType: prose
 ---
 
-  
-
 Dny v týdnu chtěly mít také jednou volno, sejít se a uspořádat slavnost. Neboť každý z nich byl po celý rok tak zaměstnán, že neměl ani chvilku času, s nímž by mohl svobodně naložit.
 
 Potřebovaly tedy jeden pěkný celý den a pak si vzpomněly, že každý čtvrtý rok takový den má: bývá v únoru, aby se uvedlo do pořádku počítání doby. V přestupní den si tedy plánovaly sejít se a slavit. A poněvadž je únor masopustní měsíc, rozhodly se přijít v maškarním obleku, každý podle svého vkusu a určení. Rovněž chtěly dobře jíst a pít, vést řeči a častovat se navzájem příjemnými i nepříjemnými štulci[^22], jež s sebou nese upřímné kamarádství.

@@ -3,8 +3,6 @@ title: Sousedé
 contentType: prose
 ---
 
-  
-
 Vypadalo to, jako by se v rybníku na návsi něco přihodilo. Všechny kachny – jak ty, které si příjemně hověly na vodě, tak ty, jež v ní stály na hlavě – spěchaly na břeh, ale nepřihodilo se nic. Jen v bahně po nich zůstalo plno stop, široko daleko bylo slyšet jejich křik a hladina rybníka se zčeřila. Ještě před chvilkou byla jasná jako zrcadlo, takže v ní bylo vidět každý strom, každý keř na břehu i starou chalupu s děravou lomenicí a vlaštovčím hnízdem, ale zejména velký růžový keř plný květů. Nakláněl se přes zeď, takže se jeho šlahouny téměř dotýkaly vody, v níž se pak všechno zrcadlilo, jenomže vzhůru nohama.
 
 Sotva se ale hladina zvlnila, rozplýval se jeden výjev za druhým a nakonec zmizel celý obraz. Zůstala jen dvě pírka, jež ztratily odlétající kachny. Chvíli se houpala nahoru a dolů, pak se náhle zvedla, jako by je odnášel vítr, ale ve vteřině to zase vypadalo, že žádný vítr není. Peříčka se houpala na vodě jako předtím a v průzračné hladině bylo znovu vidět okolí rybníka i lomenici s vlaštovčím hnízdem.

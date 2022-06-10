@@ -3,8 +3,6 @@ title: Pohanka
 contentType: prose
 ---
 
-  
-
 Často, jdeme-li po bouřce okolo pole, na němž roste pohanka, všimneme si, že úplně zčernala, jako by byla sežehnuta. Rolník by řekl: „Do pohanky udeřil blesk!“
 
 Ale proč udeřil?

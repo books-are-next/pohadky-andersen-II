@@ -3,8 +3,6 @@ title: Anděl
 contentType: prose
 ---
 
-  
-
 „Kdykoliv umře dítě, přijde na svět Boží anděl. Vezme mrtvé dítě na ruce, rozestře nad ním svá velká bílá křídla a letí do míst, která mělo dítě rádo. Tam natrhá plnou náruč květin, jež přinese k Pánubohu, aby tam nahoře kvetly ještě nádherněji než na světě. A dobrý Pánbůh přitiskne k sobě všechny květiny a tu, která je jeho srdci nejbližší, políbí. Květina tím nabude řeči a může pět spolu s ostatními bytostmi o věčné blaženosti.“
 
 Hleď, tohle vše vyprávěl Boží anděl, když odnášel jedno mrtvé dítě do nebe. A dítě mu jako ve snu naslouchalo, zatímco se vznášeli nad jeho domovinou, nad loukou, kde si hrálo, až se ocitli v zahradě s krásnými květinami.

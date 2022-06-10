@@ -3,8 +3,6 @@ title: Svíčky
 contentType: prose
 ---
 
-  
-
 Byla jedna velká vosková svíčka, která dobře věděla, čím je. „Jsem zrozená z vosku a ulitá ve formě!“ říkala. „Svítím lépe a hořím delší dobu než jiné svíčky. Moje místo je na lustru nebo na stříbrném svícnu!“
 
 „Tam to asi musí být velice krásné!“ pravila lojová svíčka. „Já jsem jen z loje, ale útěchou mi je, že jsem přece trochu víc nežli sirka. Tu namáčejí jenom dvakrát, zatímco mne osmkrát, abych získala náležitou tloušťku. Jsem spokojená! Je sice větší elegance a štěstí vzejít z vosku než z loje, jenže našinec se neocitne na tomto světě vlastním přičiněním. Vy se dostanete do sálu s nádhernými lustry, já zůstanu v kuchyni, ale to je rovněž dobré místo, neboť zde se pro celou rodinu připravuje jídlo!“
@@ -51,8 +49,12 @@ A kýchla přitom, tedy spíše prskla, víc lojová svíčka nedovede.
 
 Chudý stůl byl prostřen a jedli brambory. Ó, jak všem chutnalo! Byly to celé hody, děti dostaly navrch jablka a nejmladší holčička odříkala veršíček:
 
+  
+
 > „Děkujeme Ti, ó, Bože náš,  
 > žes dobrým jídlem obšťastnil nás…“
+
+  
 
 A protože ostatní přešli její říkanku mlčky, honem se ujišťovala:
 

@@ -3,8 +3,6 @@ title: Něco
 contentType: prose
 ---
 
-  
-
 „Chci něčím být! Chci být ve světě užitečný,“ řekl nejstarší z pěti bratří.
 
 „A byť bych nedosáhl významného postavení, jen když bude to, co dělám, k něčemu dobré. Mohl bych vyrábět cihly, bez těch se nelze obejít! Z toho by přece mělo mnoho lidí užitek!“
@@ -33,6 +31,8 @@ Na hrázi u moře žila chudá žena, která ze všeho nejvíc toužila po vlas
 
 Druhý bratr, ten, pane, dovedl stavět jinak než chudá Markéta. A není divu, však se tomu vyučil. Když odevzdal mistrovský kus, svázal si raneček a zazpíval si píseň řemeslníků:
 
+  
+
 > „Hoj, vesel jdu, dokud jsem mlád,  
 > a domov můj je v poli.  
 > Mé řemeslo je můj poklad  
@@ -41,6 +41,8 @@ Druhý bratr, ten, pane, dovedl stavět jinak než chudá Markéta. A není div
 > a dívku svoji vidím.  
 > Kde ona kyne líbezná,  
 > tam domov svůj si zřídím!“
+
+  
 
 A taky si jej zřídil. Ve městě se poté, co se vrátil z cest, stal mistrem, stavěl jeden dům vedle druhého, a když jich už byla celá ulice a dodávala městu pěkného vzhledu – tu další domy v ní začaly stavět jeho vlastní obydlí.
 

@@ -3,8 +3,6 @@ title: Žal srdce
 contentType: prose
 ---
 
-  
-
 Je to vlastně povídka o dvou dílech, co chceme vyprávět. První část by možná mohla být vypuštěna – ale uvede vás do děje druhé části, což je užitečné. Pobývali jsme na venkově v jednom panském sídle. Stalo se, že majitelé na jeden den odjeli a tu dorazila ze sousedního městečka jakási paní s mopslíkem v náručí a nabízela nám akcie svojí koželužny. Všechny potřebné papíry měla s sebou a my jsme jí poradili, aby je složila, zalepila do obálky a na obálku napsala adresu vlastníka dvorce: „Generální válečný komisař, rytíř atd., atd.“ Poslechla, vzala pero, pak se ale zarazila a prosila nás, abychom jí adresu ještě jednou a pomalu zopakovali. Učinili jsme tak. Žena se dala do psaní, ale uprostřed titulu „generální válečný“ vzdychla:
 
 „Jsem jenom obyčejná vdova!“ A snad aby se lépe soustředila, posadila mopslíka na zem. Pes kňučel. Vzala jej přece s sebou, aby se pobavil a zdravě vyvenčil, ne proto, aby tu seděl jen tak na podlaze.

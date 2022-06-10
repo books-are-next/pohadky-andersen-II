@@ -3,8 +3,6 @@ title: "Jakoubek a\_Kristýnka"
 contentType: prose
 ---
 
-  
-
 Nedaleko řeky Gudenaa, v silkeborském lese, se zvedá výšina zvaná Aasen. A pod ní, směrem k západu, stálo, ba stojí ještě selské stavení obklopené políčky, na kterých písek prosvítá tenkou vrstvou ornice oseté pšenicí a žitem.
 
 Je tomu ale už hodně let, co se tu odehrál tento příběh.
@@ -138,6 +136,8 @@ Když skončil, neřekl Jakoubek jediné slovo, jenom zbledl jako stěna. Nakone
 „Napiš jí několik slov v tom smyslu!“ pokývl převozník.
 
 I psal tedy Jakoubek, ale nedovedl psaní sestavit tak, jak si přál. Přeškrtal všechno a roztrhal papír – ale ráno byl dopis Kristýnce přece hotov.
+
+  
 
 _Četl jsem, co jsi napsala svému otci. Vidím, že se ti v každém ohledu dobře daří a že se ti v budoucnosti může dařit ještě lépe. Zeptej se svého srdce, Kristýnko! A pečlivě zvaž, co tě očekává, staneš-li se mou ženou. Nemysli na mne a co je se mnou, ale mysli na své vlastní blaho! Ke mně nejsi připoutána sliby, a slíbila-li jsi mi něco ve svém srdci, tedy ti slib vracím. Radosti celého světa nechť tě provázejí, Kristýnko! Pánbůh snad má útěchu i pro moje srdce._
 

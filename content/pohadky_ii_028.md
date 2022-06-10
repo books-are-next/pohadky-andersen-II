@@ -3,8 +3,6 @@ title: Anna Bětka
 contentType: prose
 ---
 
-  
-
 Anna Bětka byla krev a mléko, mladá, veselá a krásná na pohled. Zuby jí jen svítily, její oči byly jasné, noha lehká v tanci a mysl měla ještě lehčí. Co z toho pošlo? Ošklivý chlapec!
 
 Anna Bětka jej dala na vychování k cestářově ženě a sama sedala v hraběcím zámku v šatech z hedvábí a sametu. Ani větřík ji nesměl ovanout, nikdo jí nesměl říci špatného slova, pranic jí nesmělo uškodit! Kojila přece hraběcí dítě, jemné jako princ a krásné jako anděl. Ach, jak to dítě milovala! Její vlastní zatím dlelo u cestářů, kde hrnec nepřekypoval.

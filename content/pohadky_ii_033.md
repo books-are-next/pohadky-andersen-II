@@ -3,8 +3,6 @@ title: Bludičky jsou ve městě, řekla čarodějnice
 contentType: prose
 ---
 
-  
-
 Byl jeden muž, který vždy znával mnoho nových pohádek, ale pak mu už žádná nepřišla na mysl, říkal, že pojednou došly. Pohádky, které dříve samy k němu přicházely, již neklepaly na jeho dveře. A proč nepřicházely? Muž na pohádku poslední rok a den vůbec nepomyslel. Nečekal, až zaklepe, neboť venku zuřila válka a země byla plná starostí a bídy, které válka nese s sebou.
 
 Čápi a vlaštovky se vraceli ze svých dalekých cest a na nějaké nebezpečí ani nepomysleli. Záhy ale zjistili, že všechna hnízda byla spálena. Ba, i domy lidí byly spáleny, ploty rozbity nebo nadobro pryč a koně nepřátel šlapali po starých hrobech. Byly to krušné a smutné časy, ale i ty musejí mít svůj konec.

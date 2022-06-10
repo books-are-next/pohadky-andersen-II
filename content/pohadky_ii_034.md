@@ -3,8 +3,6 @@ title: Větrný mlýn
 contentType: prose
 ---
 
-  
-
 Na vršku stál větrný mlýn – byl pyšný na pohled i v srdci, přesto tvrdil:
 
 „Vůbec nejsem pyšný. Jsem jen osvícený, zevně i uvnitř. Mám k dispozici sluneční i měsíční svit a rovněž světlo svíček, olejových a tukových lamp.

@@ -3,8 +3,6 @@ title: Dva ostrůvky
 contentType: prose
 ---
 
-  
-
 U själlandských břehů ležely kdysi proti hradu Holštýnu dva lesnaté ostrovy – Vaenö a Glaenö. Stála na nich vesnice s hospodářskými usedlostmi a byly blízko břehu, byly blízko sebe.
 
 Nyní je z nich jenom jediný ostrov.
