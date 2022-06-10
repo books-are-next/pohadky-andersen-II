@@ -3,6 +3,8 @@ title: "Štěstí může ležet v\_dřívku"
 contentType: prose
 ---
 
+<section>
+
 Rozhodl jsem se, že vám budu vyprávět povídku o štěstí.
 
 Štěstí známe všichni. Někoho provází krok za krokem, jiného jenom v určitých letech či v jednotlivých dnech, dokonce jsou lidé, kteří je spatří pouze jedinkrát v životě, ale spatříme je všichni.
@@ -44,3 +46,5 @@ Ale musí to být to pravé dřívko – to, které nám dal Pánbůh jako dár
 Čtou moje povídky a já tak jsem mezi nimi, stojím uprostřed jejich světnice neviditelný, neboť mám bílé dřívko v ústech. Ale cítím-li, že mají potěšení z toho, co vyprávím, tu říkám také:
 
 „Štěstí může ležet i v dřívku!“
+
+</section>

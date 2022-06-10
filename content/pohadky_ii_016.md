@@ -3,6 +3,8 @@ title: "Skřítek u\_hokynáře"
 contentType: prose
 ---
 
+<section>
+
 Byl jeden student, který bydlel v podkrovní komůrce a neměl vůbec žádný majetek. A byl jeden hokynář, jemuž patřil dům i se studentovou světničkou.
 
 Tomu zůstával věrný malý skřítek, protože od něj dostával vždy na Štědrý večer mísu máslem maštěné kaše. Pro tu trochu kaše hokynáře neubylo, a tak se skřítek ochotně v krámě zabydlel.
@@ -66,3 +68,5 @@ Pak byl oheň uhašen, skřítkovo nitro se opět zklidnilo a on rozvážně pr
 „Budu patřit oběma! Nemohu se přece od hokynáře úplně odloučit, už pro tu jeho kaši!“
 
 A to bylo lidské, ne? My ostatní se přece také neobejdeme bez hokynáře – a jeho kaše.
+
+</section>

@@ -3,6 +3,8 @@ title: Límec
 contentType: prose
 ---
 
+<section>
+
 Byl jednou kavalír, jehož jediným domácím nářadím byl zouvák a hřeben, ale zato měl nejkrásnější límec na světě. A o tom límci vám něco povím…
 
 Byl již v těch letech, že mohl myslet na ženitbu, a tu se stalo, že se dostal do prádla s podvazkem.
@@ -62,3 +64,5 @@ Stal se jím a ostatní hadry rovněž.
 Z límce byl navíc udělán právě ten kus bílého papíru, který máte před sebou, ten, na němž je vytištěna tato povídka.
 
 Došlo k tomu proto, že se tolik chlubil tím, čím nikdy nebyl. Pamatujte si to a snažte se, aby se vám něco podobného nepřihodilo. Neboť nevíte, jestli se jednou také nedostanete do továrny, v níž se z hadrů dělá papír, na který někdo vytiskne povídku o vás. Papír, na kterém někdo vyzradí vaše tajemství, a vy pak budete spolu s ním běhat světem a vypravovat je kolem dokola, jako to dodnes dělá límec.
+
+</section>

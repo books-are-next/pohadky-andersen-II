@@ -3,6 +3,8 @@ title: Něco
 contentType: prose
 ---
 
+<section>
+
 „Chci něčím být! Chci být ve světě užitečný,“ řekl nejstarší z pěti bratří.
 
 „A byť bych nedosáhl významného postavení, jen když bude to, co dělám, k něčemu dobré. Mohl bych vyrábět cihly, bez těch se nelze obejít! Z toho by přece mělo mnoho lidí užitek!“
@@ -31,7 +33,9 @@ Na hrázi u moře žila chudá žena, která ze všeho nejvíc toužila po vlas
 
 Druhý bratr, ten, pane, dovedl stavět jinak než chudá Markéta. A není divu, však se tomu vyučil. Když odevzdal mistrovský kus, svázal si raneček a zazpíval si píseň řemeslníků:
 
-  
+</section>
+
+<section>
 
 > „Hoj, vesel jdu, dokud jsem mlád,  
 > a domov můj je v poli.  
@@ -42,7 +46,9 @@ Druhý bratr, ten, pane, dovedl stavět jinak než chudá Markéta. A není div
 > Kde ona kyne líbezná,  
 > tam domov svůj si zřídím!“
 
-  
+</section>
+
+<section>
 
 A taky si jej zřídil. Ve městě se poté, co se vrátil z cest, stal mistrem, stavěl jeden dům vedle druhého, a když jich už byla celá ulice a dodávala městu pěkného vzhledu – tu další domy v ní začaly stavět jeho vlastní obydlí.
 
@@ -111,3 +117,5 @@ Avšak tu poprosila za něj duše chudé ženy z hráze.
 „Tvůj bratr, ten, kterého jsi nazýval nejobyčejnějším,“ pravil anděl, „ten, k jehož počestné práci ty by ses nikdy nesnížil, ti dává haléř, vstupné do království nebeského. Nebudeš tedy odmítnut, bude ti dovoleno stát tady venku a přemýšlet o svém životě, dívat se dolů a myslet na pomoc. Dovnitř však nesmíš, dokud nevykonáš aspoň něco dobrého!“
 
 „To bych byl dovedl říci lépe!“ pomyslel si posuzovač. Ale neřekl to nahlas, což už věru bylo – něco.
+
+</section>

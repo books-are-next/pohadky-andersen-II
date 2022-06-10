@@ -3,6 +3,8 @@ title: "Obrázek z\_hradeb"
 contentType: prose
 ---
 
+<section>
+
 Je podzim. Stojíme na zámeckých hradbách a rozhlížíme se po moři. Pozorujeme množství lodí a díváme se na švédský břeh, který se zvedá vysoko v záři večerního slunce.
 
 Za námi spadají hradby kolmo dolů. Jsou porostlé nádhernými stromy, jejichž žloutnoucí listí pomalu opouští větvoví a snáší se k chmurným budovám obklopeným kulatou dřevěnou ohradou. Uvnitř chodí stráž a je tam těsno a temno, ale ještě temněji je za zamřížovaným oknem, kde si odpykávají svůj trest nejhorší zločinci.
@@ -18,3 +20,5 @@ Vtom zazní píseň lovcova, tak mile a zvučně!
 Ptáček spěšně ulétne z mříže – i sluneční paprsek zmizí. Zase je temno v cele, temno v srdci zločince, ale kousek slunce tam přece zasvitlo, ptáčkova píseň tam pronikla.
 
 Zněte dál, vy krásné písně lesního rohu! Večer je vlahý, moře hladké jako zrcadlo a tiché.
+
+</section>

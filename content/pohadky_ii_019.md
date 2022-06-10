@@ -3,6 +3,8 @@ title: Poslední perla
 contentType: prose
 ---
 
+<section>
+
 Byl jeden bohatý a šťastný dům. Jeho panstvo, služebnictvo, přátelé – všichni byli šťastní a veselí, neboť na svět přišel dědic a matce i dítěti se dařilo dobře.
 
 Lampa v útulné ložnici byla napůl zastíněná, nákladné hedvábné záclony byly tak těsně zataženy, že zcela zakrývaly okno, a na podlaze ležel koberec tlustý a měkký jako mech. Všechno zvalo ke zdřímnutí, krásnému odpočinku, což také ošetřovatelka dělala. Spala – a to bez obav mohla, neboť o vše bylo dokonale postaráno.
@@ -40,3 +42,5 @@ A tam, kde matka za dnů svého života sedávala mezi květinami a obrazy, kd
 „Perla žalosti, poslední, která nesmí scházet, neboť zvyšuje lesk a moc ostatních. Vidíš ten lesk duhy, jež spojuje zemi s nebem?
 
 Za každého z našich drahých zemřelých máme o jednoho přítele víc v nebi, po němž toužíme, k jehož hvězdě za pozemských nocí vzhlížíme. Pozoruj perlu žalosti! V ní leží peruti ducha, které nás odtud odnášejí.“
+
+</section>

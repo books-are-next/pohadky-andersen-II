@@ -3,6 +3,8 @@ title: Psyche
 contentType: prose
 ---
 
+<section>
+
 Za svítání září v růžovém vzduchu velká hvězda, nejjasnější hvězda na obloze – jitřenka. Její mihotavé světlo se chvěje na bílé klenbě, jako by chtěla napsat všechno, co umí vyprávět, co za tisíciletí spatřila tu i onde na našem otáčejícím se světě.
 
 A tak poslyšte jednu z jejích povídek!
@@ -202,3 +204,5 @@ Jasná jitřenka v oparu růžového vzduchu vysílala k ní své zářivé pa
 Vše pozemské bude odváto, zapomenuto, to hvězda dobře ví. Co je nebeské, však bude zářit ve vzpomínce, a když i vzpomínka zhasne – žije ještě Psyche.
 
 [^14]: Úvodní slovo náboženského zpěvu, žalmu věnovaného kajícnosti. _Pozn. red._
+
+</section>

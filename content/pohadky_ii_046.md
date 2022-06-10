@@ -3,6 +3,8 @@ title: Zelenáčci
 contentType: prose
 ---
 
+<section>
+
 V okně stál růžový keř. Ještě nedávno byl mladistvě svěží, ale nyní vypadal churavě.
 
 Usadil se v něm totiž kdosi, kdo jej ujídal, ač jinak působil velice slušně ve svém zeleném stejnokroji.
@@ -32,3 +34,5 @@ A první bublina se zvětšila a zazářila všemi barvami, jako by na jejím 
 „Ta teď může lépe než já vyprávět o tvorech – ne, nevyslovím to jméno! Zkrátka o zelenáčcích.“
 
 „O mšicích!“ řekla matka pohádka. „Máme jmenovat každou věc pravým jménem, a nemůžeme-li tak učinit v obyčejném hovoru, tedy to dělejme aspoň v pohádce.“
+
+</section>

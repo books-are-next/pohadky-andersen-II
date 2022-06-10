@@ -3,6 +3,8 @@ title: Krásná!
 contentType: prose
 ---
 
+<section>
+
 Sochař Alfréd, znáš ho nejspíš… Známe jej všichni. Dostal zlatou medaili, odcestoval do Itálie a pak se opět vrátil do Dánska. Tehdy byl mladý, vlastně je dosud mladý, ale přece asi o deset let starší nežli tenkrát.
 
 Po příjezdu domů navštívil jedno malé město na Själlandu. Všichni jeho obyvatelé věděli o příchodu cizince, věděli, kdo to je. Na jeho počest se u jedné z nejbohatších rodin sešla společnost a každý, kdo něco znamenal nebo měl, byl pozván. Stalo se to událostí, o níž celé město vědělo, aniž byla vybubnována.
@@ -126,3 +128,5 @@ Hlavní věc je hlavní věc! Tys přišla a naučila sochaře, že jeho dílo 
 „To od tebe nebylo laskavé,“ pravila Žofie. „A nebylo to ani křesťanské! Tam nahoře, kam nevcházíme jako manželé, kde, jak říkáš, spojuje duše vzájemná sympatie, tam, kde se vše půvabné rozvíjí a roste, tam možná zazní její duše takovou silou, že přehluší moji, a ty opět zvoláš v okouzlení stejně jako v okamžiku prvního zamilování: Krásná! Krásná!“
 
 [^13]: Postava z řeckých bájí, věčně mladá a krásná víla. _Pozn. red._
+
+</section>

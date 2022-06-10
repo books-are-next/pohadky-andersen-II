@@ -3,6 +3,8 @@ title: "V\_poslední den"
 contentType: prose
 ---
 
+<section>
+
 Nejposvátnější mezi všemi dny našeho života je den, kdy zemřeme. Je to poslední den, který je nám dopřán, den veliké posvátné proměny. Přemýšlel jsi už opravdově a vážně o této rozhodující, nade vší pochybnost poslední hodině svého pobytu na tomto světě?
 
 Byl jeden muž, muž přísné víry, jak mu říkali, hrdinný obhájce Písma, jež pro něj bylo zákonem, horlivý služebník všemocného Boha. Smrt stála právě u jeho lože a měla nebeský, ale přísný obli­čej.
@@ -92,3 +94,5 @@ Duše vnímala Boží nebesa v celém tom nekonečném prostoru okolo sebe a c
 „Svatá, svatá, milostivá a věčná budiž, duše lidská!“ zaznělo do toho sborem.
 
 A my všichni, ano, my všichni se budeme ve svůj poslední den chvět jako duše, o níž jsme vyprávěli. Budeme se chvět před září a nádherou nebeské říše, budeme se hluboko sklánět, pokorně klesat, a přece se budeme – neseni Jeho láskou a Jeho milostí udržováni – vznášet do nových prostor. Očištěni, ušlechtilejší a lepší, přiblížíme se kráse světla a jím posíleni vstoupíme do věčného jasu.
+
+</section>

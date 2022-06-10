@@ -3,6 +3,8 @@ title: Dcera krále močálů
 contentType: prose
 ---
 
+<section>
+
 Čápi vypravují svým mladým mnoho pohádek a všechny se tak či onak týkají močálu a bažin. Samozřejmě jsou přizpůsobeny věku čápat a jejich chápavosti. Nejmenším stačí pro radost, když se jim řekne: „Čáry máry, tralala!“ Avšak starší již chtějí něco hlubšího, nebo aspoň nějakou rodinnou historii.
 
 Z obou nejstarších a nejdelších pohádek, jež si generace čápů předávají, známe všichni tu o Mojžíšovi. Jak byl položen svojí matkou na vody Nilu, nalezen královskou dcerou a dobře vychován se stal velkým mužem, o němž se však neví, kde byl pohřben.
@@ -81,7 +83,9 @@ Vzal děvčátko, letěl s ním k roubenému domu, vyrazil zobákem otvor do n
 
 „Vždyť jsem říkala od začátku, že nějaká pomoc přijde!“ odpověděla matka čápice. „A nyní také trochu mysli na vlastní děti! Cítím, že se blíží doba odletu, začíná mě šimrat pod křídly! Kukačka a slavík jsou už pryč a křepelky si vyprávěly, že brzy přijde dobrý vítr! Naši mladí jistě dobře obstojí při cvičení, tím jsem si již dnes jistá!“
 
-  
+</section>
+
+<section>
 
 A vikingská žena měla opravdu velikou radost, když se ráno probudila a našla na svých ňadrech hezounké děťátko! Líbala je a hladila, ale nemluvně její pocity nesdílelo. Křičelo a mrskalo ručkama i nožkama. Nakonec přece jen pláčem usnulo, a jak tu tak bezbranně leželo, bylo tak krásné, že si nic krásnějšího ani nelze představit.
 
@@ -119,11 +123,15 @@ Srdce vikingské paní bylo naplněno úzkostí a smutkem nad tím vším. A p
 
 S tím vzlétli a v téže chvíli zazněla trubka. Pán domu přistál s veškerým svým mužstvem. Vraceli se s bohatou kořistí od galských břehů, kde lidé, právě tak jako v Británii, zpívali v úděsu:
 
-  
+</section>
+
+<section>
 
 > „Osvoboď nás od divých Normanů!“
 
-  
+</section>
+
+<section>
 
 Vikingský dvorec u divokého močálu znovu oživl veselím a ruchem! Do světnice přinesli nádobu s medovinou, byla zapálena vysoká hranice i koně poraženi – slavnost měla být velkolepá. Obětník požehnal sluhy teplou koňskou krví, oheň praskal, kouř stoupal ke stropu, saze se usazovaly na trámech a padaly zpět. Ale na to tady byli odjakživa zvyklí.
 
@@ -131,13 +139,17 @@ Rovněž bylo pozváno přemnoho hostů a dostalo se jim pěkných darů, byly 
 
 Na konci každého verše zazněl refrén:
 
-  
+</section>
+
+<section>
 
 > „Bohatství pomine, přátelé zhynou,  
 > také ty jednou zemřeš jistě.  
 > Ale nikdy nezhyne slavné jméno!“
 
-  
+</section>
+
+<section>
 
 Při těchto slovech tloukli všichni na štíty a nožem nebo kostí do desky stolu, aby to bylo hodně slyšet.
 
@@ -161,7 +173,9 @@ Vlhké a drsné podzimní mlhy, jež bez úst ohlodávaly listí, ležely nad l
 
 A kde byli tou dobou majitelé hnízda, oba čápi se všemi svými mláďaty? Kde asi!
 
-  
+</section>
+
+<section>
 
 Byli v zemi egyptské, kde sluníčko teple svítilo jako u nás za letního krásného dne. Tamarindy a akácie kvetly kolem, Mohamedův půlměsíc zářil jasně na kopulích chrámů a čápi okupovali štíhlé věže. Odpočívali tu po dlouhé, předlouhé cestě a celá velká hejna měla hnízdo vedle hnízda i na mocných sloupech, popraskaných klenbách chrámů a dalších zapomenutých místech.
 
@@ -251,7 +265,9 @@ I hodlali na ni čekat, neboť je nenapadalo nic lepšího.
 
 „Nedostane se ti za to díků!“ uzavřela čapí matka. „Ale ty jsi pán! Já do tvých úmyslů nemám co hovořit – kromě chvil, kdy sedím na vejcích!“
 
-  
+</section>
+
+<section>
 
 Ve vikingském dvorci u divokého rašeliniště, kam se čápi z jara znovu vydali, dostalo se zatím maličké jména. Helgou ji nazvali, ale to jméno bylo příliš něžné pro povahu, jíž byla dívenka obdařena. Nicméně měsíc za měsícem děvčátko rostlo a po letech, během nichž čápi neustále konali tutéž cestu – na podzim k Nilu, na jaře k rašeliništi –, se z děcka stalo veliké děvče, a sotva se kdo nadál, byla z ní šestnáctiletá panna.
 
@@ -291,7 +307,9 @@ A potom vyskočil, dvakrát zamával těžkými křídly, natáhl nohy dozadu a
 
 „Pořád je nejhezčí ze všech!“ pomyslela si matka čápice. „Ale říct mu to nesmím!“
 
-  
+</section>
+
+<section>
 
 Léto minulo a letos se už s časným podzimem vrátil vikingský pán s kořistí a zajatci, mezi nimiž byl také křesťanský kněz, jeden z těch mužů, kteří bojovali proti severským modlám. A tak se v síni a ženské komnatě často hovořilo o nové víře, která se šířila zeměmi na jihu, ale prostřednictvím svatého Ansgara se dostala i nahoru do Hadeby u Slien.
 
@@ -503,7 +521,9 @@ A o kus dál se tázala Helga v labutím kožíšku:
 
 „To je pohoří pokryté věčným sněhem!“ vysvětlovala matka. A pak byly blíž a blíž Alpám a letěly dolů k modravému Středozemnímu moři.
 
-  
+</section>
+
+<section>
 
 „Africká pevnina! Egyptský břeh!“ jásala dcera Nilu, když vysoko v jasném vzduchu spatřila svoji otčinu jako běložlutou vlnivou čáru. Také ptáci ji viděli a zrychlili svůj let.
 
@@ -521,7 +541,9 @@ Přistoupily k bledému vyschlému starci, odhodily dozadu svoje dlouhé vlasy,
 
 Stařec vstal, silný a omládlý, a stiskl v náručí dceru i vnučku.
 
-  
+</section>
+
+<section>
 
 Ten stisk byl radostným pozdravem po dlouhém těžkém snu. Stejně jako vládce se radovali i jeho poddaní a radost byla i v čapím hnízdě, ale tam hlavně nad chutnými žábami, jichž se všude hemžilo velké množství. A zatímco učenci spěšně zaznamenávali příběh o princeznách a ozdravující květině, jež byla velkým požehnáním pro jejich zemi, vyprávěli tentýž příběh čapí rodiče svým dětem. Ale teprve když byli všichni nasyceni, neboť jinak měli spoustu jiného na práci.
 
@@ -571,13 +593,17 @@ Od té doby se ani on, ani jeho rod nemohou zvednout a s hrůzou utíkají či
 
 „Chce-li tomu Bůh!“
 
-  
+</section>
+
+<section>
 
 Pověst byla u konce a Helga zamyšleně skláněla hlavu a nespouštěla oči z prohánějícího se pštrosa. Viděla jeho úzkost, poté zase jeho bláhovou radost při pohledu na svůj vlastní velký stín na bílé zdi a v jejím nitru zapustily kořeny skromnost a pokora. Život tak bohatý naštěstí jí byl dán – nyní ať se stane:
 
 „Co chce Bůh!“
 
-  
+</section>
+
+<section>
 
 Záhy z jara se čápi zase chystali na sever a Helga vzala svůj zlatý náramek a vyryla do něho svoje jméno. Pak poprosila otce čápa, aby jej odnesl vikingské paní, jež z toho vyrozumí, že její schovanka žije a vzpomíná na ni.
 
@@ -627,7 +653,9 @@ Kněz ji vyslyšel, zvedl ji do lesku a krásy, do proudu zvuků i světla �
 
 „Jenom jediný pohled! Poslední!“
 
-  
+</section>
+
+<section>
 
 Potom opět stála Helga na balkoně – ale všechny pochodně venku byly pozhasínané, všechna světla v sále zmizela a čápi byli pryč.
 
@@ -635,7 +663,9 @@ Potom opět stála Helga na balkoně – ale všechny pochodně venku byly pozh
 
 Otevřela postranní dveře, které vedly do jejího pokojíku, ale ledva se zklidnila, že je v jeho bezpečí, stála venku v zahradě. Tak to zde přece dříve nevypadalo, pomyslela si. A nebe se červenalo, již blízko bylo svítání.
 
-  
+</section>
+
+<section>
 
 Tu spatřila čápy a volala na ně jejich řečí. Otec čáp kroutil hlavou, nicméně poslouchal a po chvíli se přiblížil až k ní.
 
@@ -662,3 +692,5 @@ Slunce vysvitlo – a jako z ní kdysi v jeho paprscích spadla žabí kůž
 „Já si spíš kladu otázku, co si z toho vezmou naši mladí,“ podotkla matka čápice a otec čáp pokývl:
 
 „Ovšem, to je nejdůležitější!“
+
+</section>

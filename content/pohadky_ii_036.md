@@ -3,6 +3,8 @@ title: Domovníkův syn
 contentType: prose
 ---
 
+<section>
+
 Generálovi bydleli v prvním poschodí, domovníkovi dole ve sklepě. To dává tušit, že vzdálenost mezi oběma rodinami zahrnovala nejen celé přízemí, ale i veškeré důstojenství. Nicméně všichni bydleli pod stejnou střechou a měli tutéž vyhlídku na ulici i na dvůr.
 
 Na travnatém dvoře stál akát, a vždycky když kvetl, sedala pod ním nastrojená chůva s ještě nastrojenějším generálovic dítkem, „malou Emilkou“. Před nimi tančil bosý domovníkův synek s velkýma hnědýma očima a tmavými vlasy a Emilka se na něj smála a vztahovala k němu ručky. Generál na to hledíval z okna a říkal:
@@ -328,3 +330,5 @@ V našem příběhu se oba mladí lidé vzali a po čase se jim narodili tři 
 [^17]: Chůva. _Pozn. red._
 
 [^18]: Chráněnec. _Pozn. red._
+
+</section>

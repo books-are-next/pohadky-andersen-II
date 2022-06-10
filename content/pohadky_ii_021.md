@@ -3,6 +3,8 @@ title: Na konci moře
 contentType: prose
 ---
 
+<section>
+
 Dvě velké lodi byly vyslány k severní točně, aby nalezly v moři hranice zemí a vyzkoušely, jak daleko se lidé mohou dostat. Již rok a den pluly mezi mlhami a krami a jejich osádka zažila mnoho velikých strastí. Pak přišla zima. Slunce zůstávalo dole a předlouhou řadu neděl měla trvat noc. Vše kolem byl jediný kus ledu a v jeho sevření uvízly i lodi. Sníh ležel vysoko, převysoko, a ze sněhu tu také byly zhotovovány domy v podobě úlů. Některé si velikostí nezadaly s našimi kopci, jiné sotva pojaly tři nebo čtyři muže.
 
 Ale tma tam nebyla, severní zář bez ustání svítila červeně a modře – byl to velkolepý ohňostroj. Rovněž sníh svítil, a tak zdejší noc byla jediným dlouhým zářivým soumrakem.
@@ -28,3 +30,5 @@ Obě se smály a plakaly, a ten pod ledem a sněhem, jehož bdící duše pod
 Jako krásná nábožná píseň zvučela ta slova kolem a anděl rozložil svoje křídla jako závoj kolem spícího. Sen skončil.
 
 Byl opět v tmavém sněhovém domě, ale bible zůstávala pod jeho hlavou, víra a naděje ležely mu v srdci. Bůh byl s ním, i domovina byla s ním – „… až na konci moře!“
+
+</section>
