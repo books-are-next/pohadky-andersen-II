@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "andersen-pohadky-ii-f2704fb",
-  "revision": "f2704fb",
+  "identifier": "andersen-pohadky-ii-00e33b2",
+  "revision": "00e33b2",
   "readingOrder": [
     "promo.html",
     "pohadky_ii_005.html",
@@ -55,11 +55,11 @@
     "pohadky_ii_045.html",
     "pohadky_ii_046.html",
     "pohadky_ii_047.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:22:54 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979774962
+    "date": "Thu Jul 07 2022 08:36:18 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182978644
   },
   "documents": [
     {
@@ -188,7 +188,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Děvčátko se sirkami",
+          "name": "Děvčátko se sirkami",
           "id": null,
           "children": []
         }
@@ -268,7 +268,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Nejkrásnější růže na světě",
+          "name": "Nejkrásnější růže na světě",
           "id": null,
           "children": []
         }
@@ -663,7 +663,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Bludičky jsou ve městě, řekla čarodějnice",
+          "name": "Bludičky jsou ve městě, řekla čarodějnice",
           "id": null,
           "children": []
         }
@@ -883,7 +883,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Klíč od vrat",
+          "name": "Klíč od vrat",
           "id": null,
           "children": []
         }
@@ -967,7 +967,7 @@
       "role": "chapter",
       "order": 43,
       "prev": "pohadky_ii_046.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -980,11 +980,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 140,
-      "chars": 906,
+      "chars": 905,
       "ideas": 17,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "pohadky_ii_047.html",
       "next": null,
@@ -1002,7 +1002,7 @@
   "totals": {
     "all": {
       "words": 82971,
-      "chars": 482604,
+      "chars": 482603,
       "ideas": 2464
     },
     "chapters": {
