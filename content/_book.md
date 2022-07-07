@@ -58,7 +58,7 @@ readingOrder:
   - pohadky_ii_045.html
   - pohadky_ii_046.html
   - pohadky_ii_047.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
