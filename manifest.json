@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "andersen-pohadky-ii-d162773",
-  "revision": "d162773",
+  "identifier": "andersen-pohadky-ii-093d447",
+  "revision": "093d447",
   "readingOrder": [
     "promo.html",
     "pohadky_ii_005.html",
@@ -58,8 +58,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:57:37 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151057107
+    "date": "Mon Oct 10 2022 15:49:21 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416961675
   },
   "documents": [
     {
@@ -982,7 +982,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 140,
-      "chars": 906,
+      "chars": 907,
       "ideas": 17,
       "role": "about",
       "order": null,
@@ -1002,7 +1002,7 @@
   "totals": {
     "all": {
       "words": 82971,
-      "chars": 482604,
+      "chars": 482605,
       "ideas": 2464
     },
     "chapters": {
